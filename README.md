@@ -1,0 +1,21 @@
+# ITTinker Scripts & Automation Toolkits
+
+> Public automation scripts, DevOps workflows, and system utility toolkits for the ITTinker platform.
+
+[English](README.md) | [中文说明](README.zh-CN.md)
+
+---
+
+## Toolkits Index
+
+| Directory | Name | Description |
+| :--- | :--- | :--- |
+| [`newapi-sync-channel-models/`](./newapi-sync-channel-models/) | **New API Channel Models Sync** | Automate channel model synchronization from upstream providers with auto-diff and snapshot backup. |
+
+---
+
+## Guidelines
+
+- All standalone tools and scripts should be organized in their own self-contained directories.
+- Directory names use kebab-case in lowercase English.
+- Each tool directory must contain an English `README.md` (default), multilingual documentation where applicable (e.g. `README.zh-CN.md`), and executable script files.

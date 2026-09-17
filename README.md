@@ -15,6 +15,7 @@
 | [`vps-bench/`](./vps-bench/) | **VPS Benchmark Toolkit** | Interactive menu integrating 15+ benchmark scripts: performance, route tracing, IP quality, streaming unlock, speed test. |
 | [`ssh-key-setup/`](./ssh-key-setup/) | **SSH Key Setup Wizard** | Guided SSH key configuration: generate keys, upload to servers, configure SSH Config & Agent, multi-account support. |
 | [`cloudflare-ufw/`](./cloudflare-ufw/) | **Cloudflare UFW Firewall** | Auto-configure UFW to only allow Cloudflare IPs on ports 80/443, with dry-run mode and weekly cron updates. |
+| [`cloudflare-domain-baseline/`](./cloudflare-domain-baseline/) | **Cloudflare Domain Best-Practice Baseline** | One-click production baseline setup for any target domain: Full Strict SSL, HSTS, 301 www-redirect, static asset Cache Rules, Bot Fight Mode. |
 
 ---
 

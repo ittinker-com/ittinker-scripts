@@ -11,6 +11,10 @@
 | 工具目录 | 工具名称 | 简要说明 |
 | :--- | :--- | :--- |
 | [`newapi-sync-channel-models/`](./newapi-sync-channel-models/) | **New API 渠道模型同步脚本** | 自动从上游探针获取最新可用模型，支持精确对比分析、Dry Run 预演与快照备份。 |
+| [`vps-init/`](./vps-init/) | **VPS 一键初始化脚本** | 从裸机到生产可用的完整初始化：系统更新、用户创建、SSH 加固、防火墙、BBR 加速、fail2ban 防暴力破解。 |
+| [`vps-bench/`](./vps-bench/) | **VPS 测评工具箱** | 交互式菜单整合 15+ 测评脚本：综合性能、回程路由、IP 质量、流媒体解锁、三网测速。 |
+| [`ssh-key-setup/`](./ssh-key-setup/) | **SSH 密钥一键配置** | 引导式 SSH 密钥配置：生成密钥、上传到服务器、配置 SSH Config 与 Agent、多账号支持。 |
+| [`cloudflare-ufw/`](./cloudflare-ufw/) | **Cloudflare UFW 防火墙配置** | 自动配置 UFW 仅允许 Cloudflare IP 访问 80/443 端口，支持预览模式和每周定时更新。 |
 
 ---
 

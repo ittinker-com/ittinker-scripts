@@ -2,7 +2,7 @@
 
 > Public automation scripts, DevOps workflows, and system utility toolkits for the ITTinker platform.
 
-[English](README.md) | [中文说明](README.zh-CN.md)
+[English](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

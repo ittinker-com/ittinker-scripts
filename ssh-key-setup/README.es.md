@@ -1,0 +1,19 @@
+# Asistente de Configuración de Claves SSH y Config
+
+> Asistente interactivo para generar claves Ed25519, subirlas a tus servidores y configurar automáticamente tu archivo `~/.ssh/config`.
+
+[English](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
+
+---
+
+## Uso
+
+```bash
+bash setup.sh
+```
+
+---
+
+## Licencia
+
+MIT © [ITTinker](https://ittinker.com)

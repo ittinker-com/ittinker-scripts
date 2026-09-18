@@ -2,7 +2,7 @@
 
 > 面向 ITTinker 平台的开源自动化脚本、DevOps 工作流与日常运维工具集合。
 
-[English Documentation](README.md) | [中文说明](README.zh-CN.md)
+[English Documentation](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

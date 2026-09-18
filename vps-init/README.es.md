@@ -1,0 +1,19 @@
+# Inicialización de Servidores VPS en 1 Clic
+
+> Script de inicialización y hardening para servidores Ubuntu/Debian recién instalados.
+
+[English](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
+
+---
+
+## Inicio Rápido
+
+```bash
+sudo bash init.sh
+```
+
+---
+
+## Licencia
+
+MIT © [ITTinker](https://ittinker.com)

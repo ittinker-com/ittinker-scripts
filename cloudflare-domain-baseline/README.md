@@ -2,7 +2,7 @@
 
 > One-click script to apply production-grade security, caching, canonical 301 redirection, and crawler defense best practices for any target domain on Cloudflare.
 
-[English](README.md) | [中文说明](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

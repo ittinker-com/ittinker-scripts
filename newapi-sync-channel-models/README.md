@@ -1,6 +1,6 @@
 # New API Upstream Channel Models Synchronizer
 
-[English](README.md) | [中文说明](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 A lightweight and safe bash automation script to synchronize upstream models into New API channel configurations. It solves the issue where manually configured models on channels become outdated or deprecated over time.
 

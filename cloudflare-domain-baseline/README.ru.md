@@ -2,7 +2,7 @@
 
 > Скрипт для настройки безопасного production-профиля любого домена в Cloudflare: Full Strict SSL, HSTS, 301-редирект с www, Cache Rules и защита от ботов.
 
-[English](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

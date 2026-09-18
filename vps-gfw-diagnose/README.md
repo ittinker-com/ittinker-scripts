@@ -2,7 +2,7 @@
 
 > Multi-region connectivity and blocking diagnostic tool for indie hackers and sysadmins to instantly differentiate whether a VPS is down, firewalled, or blocked by the GFW.
 
-[English](README.md) | [中文说明](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

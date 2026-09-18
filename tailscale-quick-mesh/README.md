@@ -2,7 +2,7 @@
 
 > One-click script to install Tailscale, enable Linux kernel IP forwarding, and effortlessly configure mesh networking, subnet routing, and exit nodes.
 
-[English](README.md) | [中文说明](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Script en 1 clic appliquant les meilleures pratiques de production sur tout domaine Cloudflare : Full Strict SSL, HSTS, redirection 301 www, Cache Rules et antibot.
 
-[English](README.md) | [中文说明](README.zh-CN.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 ---
 

@@ -21,6 +21,7 @@
 | [`vps-health-monitor/`](./vps-health-monitor/) | **Легковесный Мониторинг VPS** | Мониторинг без зависимостей по Cron с уведомлениями в Telegram, Discord или Feishu при превышении нагрузки CPU/RAM/диска. |
 | [`cloudflare-tunnel-setup/`](./cloudflare-tunnel-setup/) | **Установка Cloudflare Tunnel** | Быстрое развертывание службы cloudflared systemd для безопасного доступа без открытия публичных портов. |
 | [`tailscale-quick-mesh/`](./tailscale-quick-mesh/) | **Быстрая Настройка Tailscale Mesh** | Мгновенное объединение нескольких VPS в защищенную сеть WireGuard с поддержкой Subnet Router и Exit Node. |
+| [`supabase-usage-guard/`](./supabase-usage-guard/) | **Supabase Health & Egress Guard** | 360° health diagnostic suite: audits slow queries, missing indexes, table bloat, and top egress consumer SQL. |
 
 ---
 

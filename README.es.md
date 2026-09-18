@@ -21,6 +21,7 @@
 | [`vps-health-monitor/`](./vps-health-monitor/) | **Monitor Ligero de Salud del VPS** | Monitor ligero por cron con alertas por Webhook (Telegram, Discord, Feishu) si se superan límites de CPU/RAM/Disco. |
 | [`cloudflare-tunnel-setup/`](./cloudflare-tunnel-setup/) | **Configuración de Cloudflare Tunnel** | Despliegue rápido del servicio cloudflared systemd sin necesidad de abrir puertos públicos entrantes. |
 | [`tailscale-quick-mesh/`](./tailscale-quick-mesh/) | **Red Mesh Rápida con Tailscale** | Red privada WireGuard cifrada entre múltiples servidores con soporte para reenvío de IP y Subnet Router. |
+| [`supabase-usage-guard/`](./supabase-usage-guard/) | **Supabase Health & Egress Guard** | 360° health diagnostic suite: audits slow queries, missing indexes, table bloat, and top egress consumer SQL. |
 
 ---
 

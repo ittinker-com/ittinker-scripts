@@ -21,6 +21,7 @@
 | [`vps-health-monitor/`](./vps-health-monitor/) | **軽量 VPS ヘルスモニター** | 常駐不要の Cron スクリプト。CPU/メモリ/ディスク制限超過時に Telegram/Discord/Feishu へ即座に通知。 |
 | [`cloudflare-tunnel-setup/`](./cloudflare-tunnel-setup/) | **Cloudflare Tunnel 自動構築** | 受信ポートを一切開けずにローカルサービスを安全に公開できる cloudflared systemd 設定。 |
 | [`tailscale-quick-mesh/`](./tailscale-quick-mesh/) | **Tailscale メッシュネットワーク構築** | 異なるクラウド間を WireGuard で暗号化接続。IP 転送、Pre-auth 認証、サブネットルーティング対応。 |
+| [`supabase-usage-guard/`](./supabase-usage-guard/) | **Supabase Health & Egress Guard** | 360° health diagnostic suite: audits slow queries, missing indexes, table bloat, and top egress consumer SQL. |
 
 ---
 

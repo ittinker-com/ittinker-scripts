@@ -21,6 +21,7 @@
 | [`vps-health-monitor/`](./vps-health-monitor/) | **零依赖极简健康监控告警** | 纯原生 Bash 编写，超阈值自动触发 Telegram / Discord / 飞书 告警，资源占用近乎为零。 |
 | [`cloudflare-tunnel-setup/`](./cloudflare-tunnel-setup/) | **Cloudflare Tunnel 自动穿透部署** | 一键安装 cloudflared 并注册为 systemd 守护进程，免向公网开放任何入站端口。 |
 | [`tailscale-quick-mesh/`](./tailscale-quick-mesh/) | **Tailscale 极速组网与子网路由** | 一键跨云组建 WireGuard 虚拟内网，支持免密码自动入网与子网路由 (Subnet Router) 广播。 |
+| [`supabase-usage-guard/`](./supabase-usage-guard/) | **Supabase Health & Egress Guard** | 360° health diagnostic suite: audits slow queries, missing indexes, table bloat, and top egress consumer SQL. |
 
 ---
 

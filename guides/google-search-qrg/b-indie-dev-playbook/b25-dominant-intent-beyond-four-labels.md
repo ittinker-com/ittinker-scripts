@@ -1,30 +1,44 @@
-# 搜索意图不是四个标签，真正难的是判断 Dominant Intent | 读懂 Google Search SEO 实战 系列 025
+# “把搜索意图当成四个死板的标签”？机械套用的认知错位：做 SEO 真正最难的，是精准捕捉 Dominant Intent！ | 读懂 Google Search SEO 实战 系列 025
 
-> 🌐 **在线阅读与互动版**：[搜索意图不是四个标签，真正难的是判断 Dominant Intent | 读懂 Google Search SEO 实战 系列 025](https://blog.ittinker.com/posts/搜索意图不是四个标签-真正难的是判断-dominant-intent/)
+> 🌐 **在线阅读与互动版**：[“把搜索意图当成四个死板的标签”？机械套用的认知错位：做 SEO 真正最难的，是精准捕捉 Dominant Intent！ | 读懂 Google Search SEO 实战 系列 025](https://blog.ittinker.com/posts/搜索意图不是四个标签-真正难的是判断-dominant-intent/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---
 
 ### 📌 结论先行（TL;DR）
-**SEO 教学中常见的“信息/导航/商业/交易”四分类法只是粗糙的学术标签。**
-
-1. Google 评估员在 QRG 12.5 中执行的标准，是把 Query 划分为**主导意图（Dominant Interpretation）**、**常见意图（Common Interpretation）**与**次要意图（Minor Interpretation）**。
-2. 只要关键词存在 Dominant Intent，只有满足该意图的页面才可能拿到 Fully Meets（FM）最高评级。
-3. 如果开发者的产品只对应 Minor Intent，即使页面质量打到 Highest，也无法在核心通用词上排进前三。
-
-做海外工具站的独立开发者，经常陷入一个数据悖论：
-
-你在 Ahrefs 选定了一个月搜量 50,000 的词，花了两周打磨交互界面、补齐 E-E-A-T 证据，最终上线了一个干净好用的在线工具。几个月过去，排名卡在第 8 页纹丝不动。
-
-排查页面结构，代码规范、加载速度都在 90 分以上。问题出在起点：你把一个属于**信息型主导意图**的搜索词，硬生生做成了一个**交互工具页**；或者该词的 Dominant Intent 早已被官方品牌站完全垄断，你的产品只能覆盖 3% 用户的 Minor Intent。
-
-在 Google 算法眼里，无法命中 Dominant Intent 的页面，从第一天起就失去了冲刺第一梯队的资格。
+> **SEO 教学中常见的“信息/导航/商业/交易”四分类法只是粗糙的学术标签。**
+> **做海外工具站的独立开发者，经常陷入一个数据悖论：**
+> **你在 Ahrefs 选定了一个月搜量 50,000 的词，花了两周打磨交互界面、补齐 E-E-A-T 证据，最终上线了一个干净好用的在线工具。几个月过去，排名卡在第 8 页纹丝不动。**
+> **排查页面结构，代码规范、加载速度都在 90 分以上。问题出在起点：你把一个属于**信息型主导意图**的搜索词，硬生生做成了一个**交互工具页**；或者该词的 Dominant Intent 早已被官方品牌站完全垄断，你的产品只能覆盖 3% 用户的 Minor Intent。**
+> **在 Google 算法眼里，无法命中 Dominant Intent 的页面，从第一天起就失去了冲刺第一梯队的资格。**
+>
+> - Google 评估员在 QRG 12.5 中执行的标准，是把 Query 划分为**主导意图（Dominant Interpretation）**、**常见意图（Common Interpretation）**与**次要意图（Minor Interpretation）**。
+> - 只要关键词存在 Dominant Intent，只有满足该意图的页面才可能拿到 Fully Meets（FM）最高评级。
+> - 如果开发者的产品只对应 Minor Intent，即使页面质量打到 Highest，也无法在核心通用词上排进前三。
 
 
-![图解分析](../assets/seo-b25/01-diagram.webp)
+![全景图解导览：把搜索意图当成四个死板的标签](../assets/seo-b25/01-diagram.webp)
 
 
 ---
+
+
+### 🚨 2026 → 2024 官方最新风向预警：Google 对Google 对主导意图（Dominant Intent）的动态捕捉与权重分配演进的策略演进
+
+#### 🕒 2026 → 2024 Google 官方对Google 对主导意图（Dominant Intent）的动态捕捉与权重分配演进的策略演进
+
+- **2026 · 主导意图动态漂移与 SERP 混排重构（Dynamic Dominant Intent Shift）**
+  Google 算法依托全球数十亿次点击的实时热力图，以天为单位微调主导意图（Dominant Intent）的分配。一旦用户从‘想查概念’转向‘想找开源工具’，死守博客形态的页面将被瞬间清退出前排。
+
+- **2025 · 意图错配的降维打击**
+  站长自以为做好了内容，但如果把一个 Do 意图的词做成了解析型博客，无论文字多么华丽，也只能在第 3 屏以后沦为看客。
+
+- **2024 · QRG 12.5 节关于捕捉主流意图（Dominant Interpretation）的核心法则**
+  指南要求评估员必须站在当地绝大多数用户的现实第一诉求上做决断，告诉站长在立项之初就必须选对核心形态，不能南辕北辙。
+
+
+---
+
 
 ## 1. 拆解 QRG 12.5：意图的三层真实分级
 
@@ -63,7 +77,7 @@ QRG 将这三层意图定义为结果评级的硬性天花板：
 | **意图颗粒度 (Specificity)** | QRG 12.7 | 搜索 `stripe`：属于宽泛多义词；搜索 `stripe fee calculator`：意图收敛为极度清晰的动作执行（Do Query）。 | 独立产品切忌盲目硬打宽泛词，必须抓取具体行动意图。 |
 
 
-![图解分析](../assets/seo-b25/03-diagram.webp)
+![核心架构与机制深度拆解：意图判定的四大变量：Locale、时间、实体与场景](../assets/seo-b25/03-diagram.webp)
 
 
 ---
@@ -102,7 +116,7 @@ Query: "go" (Dominant Intent: 围棋 / 常见动词 / 旅游品牌)
 ```
 
 
-![图解分析](../assets/seo-b25/04-diagram.webp)
+![核心架构与机制深度拆解：意图错配的三种典型灾难](../assets/seo-b25/04-diagram.webp)
 
 
 ---
@@ -129,7 +143,7 @@ Query: "go" (Dominant Intent: 围棋 / 常见动词 / 旅游品牌)
 - 如果你覆盖的只是 **Common / Minor Intent**：果断在 URL 和 Title 中明确长尾限定词，将战线收缩到细分场景，避开无意义的正面消耗。
 
 
-![图解分析](../assets/seo-b25/05-diagram.webp)
+![核心架构与机制深度拆解：步骤三：界定自己的交付物对应哪一层 Interpretation](../assets/seo-b25/05-diagram.webp)
 
 
 ---
@@ -154,7 +168,7 @@ Query: "go" (Dominant Intent: 围棋 / 常见动词 / 旅游品牌)
 
 **面对一个具体技术关键词，到底应该花时间写一篇深度博客，还是开发一个交互式小工具，亦或是做一个聚合画廊（Gallery）？**
 
-下一篇，我们将从产品与工程视角建立精准映射模型：**[一个关键词到底应该做工具页、博客页还是 Gallery？（B26）](/posts/一个关键词到底应该做工具页-博客页还是-gallery/)**。
+下一篇，我们将从产品与工程视角建立精准映射模型：**[“看到关键词就无脑写 2000 字博客”？形式错配的流量归零：面对一个搜索词，到底该做工具页、博客页还是 Gallery？（B26）](/posts/一个关键词到底应该做工具页-博客页还是-gallery/)**。
 
 ---
 

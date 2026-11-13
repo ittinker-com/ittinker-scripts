@@ -1,29 +1,45 @@
-# 一个页面应该解决一个 Intent，还是多个 Intent？ | 读懂 Google Search SEO 实战 系列 006
+# “一个页面包打天下 vs 一词一页批量铺”？意图颗粒度的极端陷阱：一个页面究竟应该解决一个 Intent 还是多个 Intent？ | 读懂 Google Search SEO 实战 系列 006
 
-> 🌐 **在线阅读与互动版**：[一个页面应该解决一个 Intent，还是多个 Intent？ | 读懂 Google Search SEO 实战 系列 006](https://blog.ittinker.com/posts/一个页面应该解决一个-intent-还是多个-intent/)
+> 🌐 **在线阅读与互动版**：[“一个页面包打天下 vs 一词一页批量铺”？意图颗粒度的极端陷阱：一个页面究竟应该解决一个 Intent 还是多个 Intent？ | 读懂 Google Search SEO 实战 系列 006](https://blog.ittinker.com/posts/一个页面应该解决一个-intent-还是多个-intent/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---
 
 ### 📌 结论先行（TL;DR）
-**页面意图规划的核心原则是**「主意图绝对聚焦，近缘微意图顺势解决」**。**
-
-1. QRG 12.5 与 12.7.5 指出，一个优秀的落地页必须以极高的满足度解决主搜索意图（Dominant Intent）；
-2. 切忌走入两个极端：既不能搞「一词一页」的极端拆分导致大量低质桥页（Doorway Pages）和自相竞争（Keyword Cannibalization），也不能搞「一页包打天下」强行将异构任务（如既要工具转换又要长篇学术综述）杂糅在一起。
-3. 凡是同一用户任务链条上的自然下游动作，合在一个页面解决是最佳实践；
-4. 而相互冲突的受众意图则必须物理隔离。
-
-在进行网站信息架构设计时，独立开发者常陷入两极摇摆：
-- **极端 A（机械细分）**：迷信所谓的 Long-tail SEO，为 `png to svg`、`convert png to svg`、`online png to svg free` 分别建立三个几乎一模一样的页面，结果遭遇 Google 关键词内部自相残杀（Cannibalization），甚至被判定为恶意批量桥页（Doorway Pages）；
-- **极端 B（大杂烩堆砌）**：试图用一个首页解决所有事情：既想排 `svg editor`，又想排 `learn svg tutorial`，还想兼顾 `buy vector illustrations`，最后页面定位模糊，哪个词都排不上去。
-
-到底一个页面应该承载单一意图，还是覆盖多个意图？回答这个问题，需要拆解 Google QRG 对用户意图层次的定义。
+> **页面意图规划的核心原则是**「主意图绝对聚焦，近缘微意图顺势解决」**。**
+> **在进行网站信息架构设计时，独立开发者常陷入两极摇摆：**
+> **到底一个页面应该承载单一意图，还是覆盖多个意图？回答这个问题，需要拆解 Google QRG 对用户意图层次的定义。**
+>
+> - QRG 12.5 与 12.7.5 指出，一个优秀的落地页必须以极高的满足度解决主搜索意图（Dominant Intent）；
+> - **切忌走入两个极端**：既不能搞「一词一页」的极端拆分导致大量低质桥页（Doorway Pages）和自相竞争（Keyword Cannibalization），也不能搞「一页包打天下」强行将异构任务（如既要工具转换又要长篇学术综述）杂糅在一起。
+> - **凡是同一用户任务链条上的自然下游动作**：合在一个页面解决是最佳实践；
+> - **而相互冲突的受众意图则必须物理隔离**：
+> - **极端 A（机械细分）**：迷信所谓的 Long-tail SEO，为 `png to svg`、`convert png to svg`、`online png to svg free` 分别建立三个几乎一模一样的页面，结果遭遇 Google 关键词内部自相残杀（Cannibalization），甚至被判定为恶意批量桥页（Doorway Pages）；
+> - **极端 B（大杂烩堆砌）**：试图用一个首页解决所有事情：既想排 `svg editor`，又想排 `learn svg tutorial`，还想兼顾 `buy vector illustrations`，最后页面定位模糊，哪个词都排不上去。
 
 
-![图解分析](../assets/seo-b06/01-diagram.webp)
+![全景图解导览：一个页面包打天下 vs 一词一页批量铺](../assets/seo-b06/01-diagram.webp)
 
 
 ---
+
+
+### 🚨 2026 → 2024 官方最新风向预警：Google 对Google 对单页多意图与主题聚焦（Topic Topicality）的评估演进的策略演进
+
+#### 🕒 2026 → 2024 Google 官方对Google 对单页多意图与主题聚焦（Topic Topicality）的评估演进的策略演进
+
+- **2026 · 意图层级化树状网络架构（Intent Hierarchy Architecture）**
+  Google 算法全面青睐‘核心通用词承接高阶意图，微观纵深词拆解为专题岛屿’的拓扑结构。试图用一个页面搞定数十个差异化意图的‘缝合怪页面’遭遇相关度稀释与排名滑坡。
+
+- **2025 · 同质化拆页（Intent Splintering）算法打击**
+  对于为了抢占长尾把一个简单问题强行拆解成数十个只有几行差异的子页面的做法，Google 直接触发 Doorway Page 清理机制，强制合并索引。
+
+- **2024 · QRG 12.5 节对复合意图与单一意图承载模式的界定**
+  指引指导站长：紧密关联的衍生子意图应当作为辅助模块整合在同一页面中，而具有独立决策路径的异构意图必须果断设立独立实体页面。
+
+
+---
+
 
 ## 1. QRG 12.5 与 12.7.5：意图的多层结构
 
@@ -37,7 +53,7 @@
 这里的核心分水岭在于：**这些意图是否属于同一条用户任务链（User Task Chain）？**
 
 
-![图解分析](../assets/seo-b06/02-diagram.webp)
+![核心架构与机制深度拆解：QRG 12.5 与 12.7.5：意图的多层结构](../assets/seo-b06/02-diagram.webp)
 
 
 ---
@@ -124,7 +140,7 @@ if __name__ == "__main__":
 ```
 
 
-![图解分析](../assets/seo-b06/05-diagram.webp)
+![核心架构与机制深度拆解：工程化判定：SERP URL 重合度分析脚本 (Python)](../assets/seo-b06/05-diagram.webp)
 
 
 ---
@@ -169,7 +185,7 @@ ORDER BY cq.aggregate_impressions DESC, cq.query, qps.total_clicks DESC;
 ```
 
 
-![图解分析](../assets/seo-b06/06-diagram.webp)
+![核心架构与机制深度拆解：GSC 关键词自相残杀（Cannibalization）排查 SQL 与数据模型](../assets/seo-b06/06-diagram.webp)
 
 
 ---
@@ -261,7 +277,7 @@ export function ImageWorkflowStudio() {
 ```
 
 
-![图解分析](../assets/seo-b06/07-diagram.webp)
+![核心架构与机制深度拆解：前端架构：多任务链顺畅承接的单页 Tab 组件](../assets/seo-b06/07-diagram.webp)
 
 
 ---
@@ -324,9 +340,9 @@ export function ImageWorkflowStudio() {
 
 探讨完核心意图的拆合分工后，在实际出海 SaaS 尤其 AI 领域，很多开发者会尝试搭建“作品展示流”或“画廊页”（Gallery Page），比如几千张 AI 生图样例、几十组 Prompt 模板库。
 
-这种图片占大头的 Gallery 页面到底有没有 SEO 价值？它会不会被 Google 判为无实质内容的模板瘦页面（Thin Content）？
+这种图片占大头的 “图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：Gallery 页面到底有没有 SEO 价值？如何做出高质量多模态收录？它会不会被 Google 判为无实质内容的模板瘦页面（Thin Content）？
 
-下一篇我们将拆解 **[Gallery 页面到底有没有 SEO 价值？（B07）](/posts/gallery-页面到底有没有-seo-价值/)**，剖析浏览型意图与灵感搜索的质量评判之道。
+下一篇我们将拆解 **[“图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：Gallery 页面到底有没有 SEO 价值？如何做出高质量多模态收录？（B07）](/posts/gallery-页面到底有没有-seo-价值/)**，剖析浏览型意图与灵感搜索的质量评判之道。
 
 
 ---

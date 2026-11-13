@@ -1,21 +1,39 @@
-# 模板页换一个关键词，算不算一个新页面？ | 读懂 Google Search SEO 实战 系列 008
+# “模板不变只换一个城市名/行业词”？披着羊皮的垃圾站：模板页换一个关键词到底算不算新页面？Google 是怎么一秒识破的？ | 读懂 Google Search SEO 实战 系列 008
 
-> 🌐 **在线阅读与互动版**：[模板页换一个关键词，算不算一个新页面？ | 读懂 Google Search SEO 实战 系列 008](https://blog.ittinker.com/posts/模板页换一个关键词-算不算一个新页面/)
+> 🌐 **在线阅读与互动版**：[“模板不变只换一个城市名/行业词”？披着羊皮的垃圾站：模板页换一个关键词到底算不算新页面？Google 是怎么一秒识破的？ | 读懂 Google Search SEO 实战 系列 008](https://blog.ittinker.com/posts/模板页换一个关键词-算不算一个新页面/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---
 
 ### 📌 结论先行（TL;DR）
-**模板换关键词是否算独立新页面，Google 评分框架与反垃圾机制的判定基准是：**「独立 Query × 独立真实需求 × 独立主体内容 (MC) × 独立增量价值 (Added Value)」**。**
+> **模板换关键词是否算独立新页面，Google 评分框架与反垃圾机制的判定基准是：**「独立 Query × 独立真实需求 × 独立主体内容 (MC) × 独立增量价值 (Added Value)」**。**
+>
+> - **如果四个要素同时成立**：即使依赖相同模板框架，也是合规且具有排名的工程化页面（Programmatic SEO）；
+> - **反之**：如果只是将同一个工具或文案模板批量套用不同国家、格式或后缀，仅替换 H1 与元标签，则直接命中 QRG 4.6.5-4.6.7 与 Google 搜索垃圾政策中的门页（Doorway Pages）与规模化内容滥用（Scaled Content Abuse），导致整站索引雪崩。
 
-1. 如果四个要素同时成立，即使依赖相同模板框架，也是合规且具有排名的工程化页面（Programmatic SEO）；
-2. 反之，如果只是将同一个工具或文案模板批量套用不同国家、格式或后缀，仅替换 H1 与元标签，则直接命中 QRG 4.6.5-4.6.7 与 Google 搜索垃圾政策中的门页（Doorway Pages）与规模化内容滥用（Scaled Content Abuse），导致整站索引雪崩。
 
-
-![全景图解导览：模板页换一个关键词，算不算一个新页面？](../assets/seo-b08/01-diagram.webp)
+![全景图解导览：“模板不变只换一个城市名/行业词”？披着羊皮的垃圾站：模板页换一个关键词到底算不算新页面？Google 是怎么一秒识破的？](../assets/seo-b08/01-diagram.webp)
 
 
 ---
+
+
+### 🚨 2026 → 2024 官方最新风向预警：Google 对Google 对模板化换皮页面（Doorway Pages）的精准清理的策略演进
+
+#### 🕒 2026 → 2024 Google 官方对Google 对模板化换皮页面（Doorway Pages）的精准清理的策略演进
+
+- **2026 · 模板开销比（Template Overhead Ratio）自动化测算**
+  Googlebot 对全站进行 DOM 树与语义特征聚类分析。一旦发现数千个页面仅有 H1 和正文中的‘北京/纽约’或‘律师/牙医’发生替换，而底层数据与服务内容毫无差异，直接触发 Doorway Spam 拦截。
+
+- **2025 · 真实本地区域增量信息准入门槛**
+  换词页面若想合规存活，必须注入真实的本地网点、专有案例、本土用户评价及独特的区域服务规格，建立坚不可摧的差异化壁垒。
+
+- **2024 · Google Search Essentials 关于 Doorway Pages 政策的严格收紧**
+  官方明确将‘仅为了捕获不同地理或行业关键词而创建但提供无差别内容’的行为定义为严重垃圾违规，施加全站级惩罚。
+
+
+---
+
 
 ## 1. 为什么“换词即建页”会成为出海产品的流量坟墓？
 
@@ -31,7 +49,7 @@
 Google 爬虫会在短时间内将此类批量页面标记为软 404（Soft 404）或“已抓取 - 尚未编入索引”，并直接下调整站的抓取配额。
 
 
-![图解分析](../assets/seo-b08/02-diagram.webp)
+![核心架构与机制深度拆解：为什么“换词即建页”会成为出海产品的流量坟墓？](../assets/seo-b08/02-diagram.webp)
 
 
 ---
@@ -122,7 +140,7 @@ if __name__ == "__main__":
 ```
 
 
-![图解分析](../assets/seo-b08/05-diagram.webp)
+![核心架构与机制深度拆解：防范门页惩罚：Shingling 文本碰撞率检测脚本 (Python)](../assets/seo-b08/05-diagram.webp)
 
 
 ---
@@ -214,7 +232,7 @@ export default async function ConverterDynamicPage({ params }: PageProps) {
 ```
 
 
-![图解分析](../assets/seo-b08/06-diagram.webp)
+![核心架构与机制深度拆解：前端架构：Next.js 16 数据驱动型 pSEO 动态路由范式 (React 19)](../assets/seo-b08/06-diagram.webp)
 
 
 ---
@@ -264,7 +282,7 @@ export default async function ConverterDynamicPage({ params }: PageProps) {
 - [ ] **坚决收拢同义与重叠意图**：对于意图完全相同的近义词组合，使用 `301 重定向` 或 `rel="canonical"` 收敛到同一个主落地页，避免自我竞争与蜘蛛惩罚。
 
 
-![图解分析](../assets/seo-b08/09-diagram.webp)
+![规范核对清单与落地执行图解：独立开发者 pSEO 落地 Checklist](../assets/seo-b08/09-diagram.webp)
 
 
 ---
@@ -275,7 +293,7 @@ export default async function ConverterDynamicPage({ params }: PageProps) {
 
 至此，实战应用第一模块「B1. 页面与产品设计」（B01~B08）全部结稿。在接下来的「B2. 内容质量与 AI 内容」模块中，我们将直面当前独立开发者最关切的命题：
 
-**下一篇预告**：**[Google 到底允不允许 AI 写内容？从 QRG 3.2 与官方指南看判定底牌（B09）](/posts/google-到底允不允许-ai-写内容/)** 深度拆解 Google 针对生成式 AI 内容的最新政策演变，看懂 Effort（付出）、Originality（原创）与 Added Value（增量价值）如何左右 AI 内容的索引命运。
+**下一篇预告**：**[“Google 绝对封杀一切 AI 内容”？误读官方指南的因噎废食：Google 到底允不允许 AI 写内容？从 QRG 3.2 看判定底牌（B09）](/posts/google-到底允不允许-ai-写内容/)** 深度拆解 Google 针对生成式 AI 内容的最新政策演变，看懂 Effort（付出）、Originality（原创）与 Added Value（增量价值）如何左右 AI 内容的索引命运。
 
 
 ---

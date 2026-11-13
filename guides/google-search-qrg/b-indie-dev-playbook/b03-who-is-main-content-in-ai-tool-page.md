@@ -1,6 +1,6 @@
-# Generator、Examples、Prompt、FAQ，谁才是 AI 工具页的 Main Content？ | 读懂 Google Search SEO 实战 系列 003
+# “核心功能就是个输入框”？AI 工具站被批量降权的真相：Generator、Examples、Prompt、FAQ，谁才是真正的 Main Content？ | 读懂 Google Search SEO 实战 系列 003
 
-> 🌐 **在线阅读与互动版**：[Generator、Examples、Prompt、FAQ，谁才是 AI 工具页的 Main Content？ | 读懂 Google Search SEO 实战 系列 003](https://blog.ittinker.com/posts/generator-examples-prompt-faq-谁才是-ai-工具页的-main-content/)
+> 🌐 **在线阅读与互动版**：[“核心功能就是个输入框”？AI 工具站被批量降权的真相：Generator、Examples、Prompt、FAQ，谁才是真正的 Main Content？ | 读懂 Google Search SEO 实战 系列 003](https://blog.ittinker.com/posts/generator-examples-prompt-faq-谁才是-ai-工具页的-main-content/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---
@@ -13,13 +13,15 @@
 > - **辅助边界**：**FAQ** 纯属辅助内容（SC），其唯一价值是化解顾虑与建立透明度，绝非关键词垃圾桶。
 > - **致命错配**：将 Generator 做成不可用的静态截图、反把万字长文与折叠 FAQ 堆上首屏，直接触发 QRG 评级大滑坡。
 
+
+
 ---
 
 ### 🚨 2024–2026 官方最新风向预警：Google 对 FAQ 与内容堆砌的策略演进
 
 很多站长至今仍在用 2022 年前的老思维做 SEO：在页面底部拼命塞十几屏由大模型批量生成的 FAQ，甚至企图借助 Schema 标记在搜索结果中强行抢占折叠卡片。Google 官方在近年的一系列重大算法与规则更新中，已经对这种投机模式完成精准定点清算：
 
-#### 🕒 2026 → 2024 Google 官方对 FAQ 与堆砌内容的策略演进,blue
+#### 🕒 2026 → 2024 Google 官方对 FAQ 与堆砌内容的策略演进
 
 - **2026 · 行动意图（Do Intent）脱钩长文，全面回归即刻任务交付**
   Google 算法（NavBoost 与持续迭代的 Helpful Content 系统）对工具站建立“秒级任务交付”考核：FAQ 仅允许收录**极高信任度事实**（退款政策、商用版权、数据是否被用于 AI 训练）。凡是在工具下方充当“伪百科科普”的灌水长文，均被算法精准识别并打入低质区间。
@@ -45,7 +47,7 @@
 在 Google 评估员的显微镜下，这种排版布局究竟谁才是决定页面生死的 Main Content？
 
 
-![图解分析](../assets/seo-b03/01-diagram.webp)
+![全景图解导览：核心功能就是个输入框](../assets/seo-b03/01-diagram.webp)
 
 
 ---
@@ -193,7 +195,7 @@ export function AiToolLandingLayout({
 ```
 
 
-![图解分析](../assets/seo-b03/05-diagram.webp)
+![核心架构与机制深度拆解：架构实操：Next.js 16 现代 AI 落地页模块实现](../assets/seo-b03/05-diagram.webp)
 
 
 ---
@@ -318,7 +320,7 @@ if __name__ == "__main__":
 ```
 
 
-![图解分析](../assets/seo-b03/07-diagram.webp)
+![核心架构与机制深度拆解：Schema.org 复合结构化数据声明规范](../assets/seo-b03/07-diagram.webp)
 
 
 ---
@@ -379,7 +381,7 @@ if __name__ == "__main__":
 
 这些密集的商业转化按钮，究竟会不会被 Google 评估员视作干扰性广告而扣分？
 
-下一篇我们将拆解 **[CTA 太多会不会伤害页面质量？（B04）](/posts/cta-太多会不会伤害页面质量/)**，界定合理的商业转化与侵入式干扰之间的安全边界。
+下一篇我们将拆解 **[“CTA 越多转化越高”？出海独立开发者的转化迷信，为什么正在把你的落地页送进 Google 降权黑名单？（B04）](/posts/cta-太多会不会伤害页面质量/)**，界定合理的商业转化与侵入式干扰之间的安全边界。
 
 
 ---

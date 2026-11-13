@@ -7,7 +7,7 @@
 | **B01** | “单页必须满 1500 字”？被奉为圭臬的 SEO 圣经，为什么正在害死你的 AI 工具页？ | 读懂 Google Search SEO 实战 系列 001 | [](./b01-how-many-words-does-an-ai-tool-page-need.md) | [阅读原文](https://blog.ittinker.com/posts/一个-ai-工具页面到底需要多少文字/) |
 | **B02** | 300 字工具页为什么可能比 3000 字博客更有价值？ | 读懂 Google Search SEO 实战 系列 002 | [](./b02-why-300-words-tool-page-outvalues-3000-words-blog.md) | [阅读原文](https://blog.ittinker.com/posts/300-字工具页为什么可能比-3000-字博客更有价值/) |
 | **B03** | Generator、Examples、Prompt、FAQ，谁才是 AI 工具页的 Main Content？ | 读懂 Google Search SEO 实战 系列 003 | [](./b03-who-is-main-content-in-ai-tool-page.md) | [阅读原文](https://blog.ittinker.com/posts/generator-examples-prompt-faq-谁才是-ai-工具页的-main-content/) |
-| **B04** | CTA 太多会不会伤害页面质量？ | 读懂 Google Search SEO 实战 系列 004 | [](./b04-do-too-many-ctas-hurt-page-quality.md) | [阅读原文](https://blog.ittinker.com/posts/cta-太多会不会伤害页面质量/) |
+| **B04** | “CTA 越多转化越高”？出海独立开发者的转化迷信，为什么正在把你的落地页送进 Google 降权黑名单？ | 读懂 Google Search SEO 实战 系列 004 | [](./b04-do-too-many-ctas-hurt-page-quality.md) | [阅读原文](https://blog.ittinker.com/posts/cta-太多会不会伤害页面质量/) |
 | **B05** | Landing Page 应该先讲产品，还是先讲 SEO 内容？ | 读懂 Google Search SEO 实战 系列 005 | [](./b05-landing-page-product-first-or-content-first.md) | [阅读原文](https://blog.ittinker.com/posts/landing-page-应该先讲产品-还是先讲-seo-内容/) |
 | **B06** | 一个页面应该解决一个 Intent，还是多个 Intent？ | 读懂 Google Search SEO 实战 系列 006 | [](./b06-one-intent-or-multiple-intents-per-page.md) | [阅读原文](https://blog.ittinker.com/posts/一个页面应该解决一个-intent-还是多个-intent/) |
 | **B07** | Gallery 页面到底有没有 SEO 价值？ | 读懂 Google Search SEO 实战 系列 007 | [](./b07-does-gallery-page-have-value.md) | [阅读原文](https://blog.ittinker.com/posts/gallery-页面到底有没有-seo-价值/) |

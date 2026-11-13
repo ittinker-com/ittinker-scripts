@@ -57,7 +57,7 @@ guides/google-search-qrg/
    - 见 [`b02-why-300-words-tool-page-outvalues-3000-words-blog.md`](./b-indie-dev-playbook/b02-why-300-words-tool-page-outvalues-3000-words-blog.md)
 3. **Generator、Examples、Prompt、FAQ，谁才是页面的 Main Content？**
    - 见 [`b03-who-is-main-content-in-ai-tool-page.md`](./b-indie-dev-playbook/b03-who-is-main-content-in-ai-tool-page.md)
-4. **页面放太多 CTA 转化按钮，会不会被判定为 Low Quality？**
+4. **“CTA 越多转化越高”？出海独立开发者的转化迷信为什么会招致 Google 降权？**
    - 见 [`b04-do-too-many-ctas-hurt-page-quality.md`](./b-indie-dev-playbook/b04-do-too-many-ctas-hurt-page-quality.md)
 5. **AI 批量生成内容（pSEO）什么时候会踩中 Scaled Content Abuse 严打红线？**
    - 见 [`a25-scaled-content-abuse-ai-mass-content.md`](./a-qrg-principles/a25-scaled-content-abuse-ai-mass-content.md) 与 [`b18-programmatic-seo-and-scaled-content-abuse.md`](./b-indie-dev-playbook/b18-programmatic-seo-and-scaled-content-abuse.md)

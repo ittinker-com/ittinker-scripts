@@ -10,6 +10,7 @@
 
 | Directory | Name | Description |
 | :--- | :--- | :--- |
+| [`guides/google-search-qrg/`](./guides/google-search-qrg/) | **Google Search QRG Knowledge Base (110 Guides)** | Complete guide to Google Search Quality Evaluator Guidelines (QRG) & modern SEO architecture for indie developers and SaaS teams. Includes 1,500+ inline architecture diagrams. |
 | [`newapi-sync-channel-models/`](./newapi-sync-channel-models/) | **New API Channel Models Sync** | Automate channel model synchronization from upstream providers with auto-diff and snapshot backup. |
 | [`vps-init/`](./vps-init/) | **VPS One-Click Initialization** | Complete VPS setup from bare metal to production-ready: system update, user creation, SSH hardening, firewall, BBR, fail2ban. |
 | [`vps-bench/`](./vps-bench/) | **VPS Benchmark Toolkit** | Interactive menu integrating 15+ benchmark scripts: performance, route tracing, IP quality, streaming unlock, speed test. |

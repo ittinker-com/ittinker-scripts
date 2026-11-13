@@ -10,6 +10,7 @@
 
 | 工具目录 | 工具名称 | 简要说明 |
 | :--- | :--- | :--- |
+| [`guides/google-search-qrg/`](./guides/google-search-qrg/) | **读懂 Google Search 开源知识库 (110篇)** | 基于 Google QRG 官方评估准则与算法逻辑构建，涵盖 A系列（准则拆解）与 B系列（独立开发者实战），内含 1,500+ 原创全景技术图解。 |
 | [`newapi-sync-channel-models/`](./newapi-sync-channel-models/) | **New API 渠道模型同步脚本** | 自动从上游探针获取最新可用模型，支持精确对比分析、Dry Run 预演与快照备份。 |
 | [`vps-init/`](./vps-init/) | **VPS 一键初始化脚本** | 从裸机到生产可用的完整初始化：系统更新、用户创建、SSH 加固、防火墙、BBR 加速、fail2ban 防暴力破解。 |
 | [`vps-bench/`](./vps-bench/) | **VPS 测评工具箱** | 交互式菜单整合 15+ 测评脚本：综合性能、回程路由、IP 质量、流媒体解锁、三网测速。 |

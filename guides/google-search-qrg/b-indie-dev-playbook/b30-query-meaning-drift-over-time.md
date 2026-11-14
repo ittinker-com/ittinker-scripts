@@ -1,6 +1,6 @@
-# “两年前能排第一的文章今年怎么彻底搜不到了”？意图漂移的残酷现实：为什么同一个关键词随着时间会完全换一种意思？ | 读懂 Google Search SEO 实战 系列 030
+# “关键词意思变了怎么办”？意图漂移（Intent Drift）应对模型 | 读懂 Google Search SEO 实战 系列 030
 
-> 🌐 **在线阅读与互动版**：[“两年前能排第一的文章今年怎么彻底搜不到了”？意图漂移的残酷现实：为什么同一个关键词随着时间会完全换一种意思？ | 读懂 Google Search SEO 实战 系列 030](https://blog.ittinker.com/posts/为什么关键词会随着时间-换一种意思/)
+> 🌐 **在线阅读与互动版**：[“关键词意思变了怎么办”？意图漂移（Intent Drift）应对模型 | 读懂 Google Search SEO 实战 系列 030](https://blog.ittinker.com/posts/为什么关键词会随着时间-换一种意思/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

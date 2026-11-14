@@ -1,6 +1,6 @@
-# “不可替代的护城河究竟是什么”？顶尖站点的封神之路：QRG 8.0 Highest Quality 如何建立绝对权威与深度壁垒？ | 读懂 Google Search 基础认知 系列 030
+# “搜索词只有唯一正解”？多意图 Query 的识别与设计 | 读懂 Google Search 基础认知 系列 030
 
-> 🌐 **在线阅读与互动版**：[“不可替代的护城河究竟是什么”？顶尖站点的封神之路：QRG 8.0 Highest Quality 如何建立绝对权威与深度壁垒？ | 读懂 Google Search 基础认知 系列 030](https://blog.ittinker.com/posts/highest-quality-的护城河是什么/)
+> 🌐 **在线阅读与互动版**：[“搜索词只有唯一正解”？多意图 Query 的识别与设计 | 读懂 Google Search 基础认知 系列 030](https://blog.ittinker.com/posts/highest-quality-的护城河是什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

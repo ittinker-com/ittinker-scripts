@@ -1,6 +1,6 @@
-# “几十万个页面怎么人工审核该不该进 Sitemap”？工程化出海的核心武器：用 AI 构建自动化 Page Quality Gate 质检门禁 | 读懂 Google Search SEO 实战 系列 052
+# “几十万页面怎么质检”？用 AI 搭建自动化 PQ Gate 门禁 | 读懂 Google Search SEO 实战 系列 052
 
-> 🌐 **在线阅读与互动版**：[“几十万个页面怎么人工审核该不该进 Sitemap”？工程化出海的核心武器：用 AI 构建自动化 Page Quality Gate 质检门禁 | 读懂 Google Search SEO 实战 系列 052](https://blog.ittinker.com/posts/ai-能不能自动判断-pseo-页面该不该进-sitemap/)
+> 🌐 **在线阅读与互动版**：[“几十万页面怎么质检”？用 AI 搭建自动化 PQ Gate 门禁 | 读懂 Google Search SEO 实战 系列 052](https://blog.ittinker.com/posts/ai-能不能自动判断-pseo-页面该不该进-sitemap/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

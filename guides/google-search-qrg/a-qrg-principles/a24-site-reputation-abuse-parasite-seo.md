@@ -1,6 +1,6 @@
-# “花钱租个大媒体二级目录做躺赢”？大站寄生 SEO 的死期已至：为什么 Site Reputation Abuse 成为 Google 斩杀的核心目标？ | 读懂 Google Search 基础认知 系列 024
+# “差评只是个案不必理会”？严重负面声誉是如何彻底摧毁网站的？ | 读懂 Google Search 基础认知 系列 024
 
-> 🌐 **在线阅读与互动版**：[“花钱租个大媒体二级目录做躺赢”？大站寄生 SEO 的死期已至：为什么 Site Reputation Abuse 成为 Google 斩杀的核心目标？ | 读懂 Google Search 基础认知 系列 024](https://blog.ittinker.com/posts/site-reputation-abuse-为什么-大站寄生-seo-在-google-新政下越来越危险/)
+> 🌐 **在线阅读与互动版**：[“差评只是个案不必理会”？严重负面声誉是如何彻底摧毁网站的？ | 读懂 Google Search 基础认知 系列 024](https://blog.ittinker.com/posts/site-reputation-abuse-为什么-大站寄生-seo-在-google-新政下越来越危险/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

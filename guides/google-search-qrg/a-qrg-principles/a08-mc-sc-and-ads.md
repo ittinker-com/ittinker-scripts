@@ -1,6 +1,6 @@
-# “页面塞满广告不影响内容”？自欺欺人的变现幻觉：深度拆解 Main Content (MC)、SC 与 Ads 的质量生死线 | 读懂 Google Search 基础认知 系列 008
+# “塞满广告不影响收录”？主内容（MC）、辅助内容与广告的边界在哪？ | 读懂 Google Search 基础认知 系列 008
 
-> 🌐 **在线阅读与互动版**：[“页面塞满广告不影响内容”？自欺欺人的变现幻觉：深度拆解 Main Content (MC)、SC 与 Ads 的质量生死线 | 读懂 Google Search 基础认知 系列 008](https://blog.ittinker.com/posts/一个网页到底由什么组成/)
+> 🌐 **在线阅读与互动版**：[“塞满广告不影响收录”？主内容（MC）、辅助内容与广告的边界在哪？ | 读懂 Google Search 基础认知 系列 008](https://blog.ittinker.com/posts/一个网页到底由什么组成/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

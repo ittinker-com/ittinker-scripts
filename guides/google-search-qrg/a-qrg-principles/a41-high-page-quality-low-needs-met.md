@@ -1,6 +1,6 @@
-# “内容质量满分为什么排名垫底”？困扰无数站长的世纪难题：深度解开 PQ（页面质量）与 NM（需求满足）的双轴错位之谜 | 读懂 Google Search 基础认知 系列 041
+# “用户秒退回搜索框”？什么页面会被判为 Fails Meets？ | 读懂 Google Search 基础认知 系列 041
 
-> 🌐 **在线阅读与互动版**：[“内容质量满分为什么排名垫底”？困扰无数站长的世纪难题：深度解开 PQ（页面质量）与 NM（需求满足）的双轴错位之谜 | 读懂 Google Search 基础认知 系列 041](https://blog.ittinker.com/posts/page-quality-很高-为什么-needs-met-仍然可能很低/)
+> 🌐 **在线阅读与互动版**：[“用户秒退回搜索框”？什么页面会被判为 Fails Meets？ | 读懂 Google Search 基础认知 系列 041](https://blog.ittinker.com/posts/page-quality-很高-为什么-needs-met-仍然可能很低/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

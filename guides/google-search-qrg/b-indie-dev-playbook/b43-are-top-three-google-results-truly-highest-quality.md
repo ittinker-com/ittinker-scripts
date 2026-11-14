@@ -1,6 +1,6 @@
-# “Google 排名前三的页面真的全都质量无敌吗”？盲目崇拜的破除：实测拆解 SERP Top 10 的 PQ 质量分与 NM 满足度真相 | 读懂 Google Search SEO 实战 系列 043
+# “排前三的页面质量真的无敌吗”？实测拆解 SERP 首页的质量真相 | 读懂 Google Search SEO 实战 系列 043
 
-> 🌐 **在线阅读与互动版**：[“Google 排名前三的页面真的全都质量无敌吗”？盲目崇拜的破除：实测拆解 SERP Top 10 的 PQ 质量分与 NM 满足度真相 | 读懂 Google Search SEO 实战 系列 043](https://blog.ittinker.com/posts/google-排名前三的页面-真的都是最高质量吗/)
+> 🌐 **在线阅读与互动版**：[“排前三的页面质量真的无敌吗”？实测拆解 SERP 首页的质量真相 | 读懂 Google Search SEO 实战 系列 043](https://blog.ittinker.com/posts/google-排名前三的页面-真的都是最高质量吗/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

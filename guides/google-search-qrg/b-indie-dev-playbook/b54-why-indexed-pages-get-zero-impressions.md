@@ -1,6 +1,6 @@
-# “GSC 明明显示收录了为什么曝光量永远是 0”？僵尸页面的终极死因：解构收录资格（Indexed）与检索曝光（Impression）的巨大断层 | 读懂 Google Search SEO 实战 系列 054
+# “收录了为什么曝光量永远是 0”？僵尸页面的收录与曝光断层全解 | 读懂 Google Search SEO 实战 系列 054
 
-> 🌐 **在线阅读与互动版**：[“GSC 明明显示收录了为什么曝光量永远是 0”？僵尸页面的终极死因：解构收录资格（Indexed）与检索曝光（Impression）的巨大断层 | 读懂 Google Search SEO 实战 系列 054](https://blog.ittinker.com/posts/一个-indexed-页面为什么可能一个-impression-都没有/)
+> 🌐 **在线阅读与互动版**：[“收录了为什么曝光量永远是 0”？僵尸页面的收录与曝光断层全解 | 读懂 Google Search SEO 实战 系列 054](https://blog.ittinker.com/posts/一个-indexed-页面为什么可能一个-impression-都没有/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

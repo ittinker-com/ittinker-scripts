@@ -1,6 +1,6 @@
-# “看到关键词就无脑写 2000 字博客”？形式错配的流量归零：面对一个搜索词，到底该做工具页、博客页还是 Gallery？ | 读懂 Google Search SEO 实战 系列 026
+# “工具页、博客还是画廊”？一个关键词到底该选哪种形态？ | 读懂 Google Search SEO 实战 系列 026
 
-> 🌐 **在线阅读与互动版**：[“看到关键词就无脑写 2000 字博客”？形式错配的流量归零：面对一个搜索词，到底该做工具页、博客页还是 Gallery？ | 读懂 Google Search SEO 实战 系列 026](https://blog.ittinker.com/posts/一个关键词到底应该做工具页-博客页还是-gallery/)
+> 🌐 **在线阅读与互动版**：[“工具页、博客还是画廊”？一个关键词到底该选哪种形态？ | 读懂 Google Search SEO 实战 系列 026](https://blog.ittinker.com/posts/一个关键词到底应该做工具页-博客页还是-gallery/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

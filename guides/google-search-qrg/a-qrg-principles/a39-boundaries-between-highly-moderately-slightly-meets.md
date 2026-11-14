@@ -1,6 +1,6 @@
-# “中段排名的量化标尺到底在哪”？毫厘之间的位次之争：Highly、Moderately、Slightly Meets 的真实分界线 | 读懂 Google Search 基础认知 系列 039
+# “食之无味弃之可惜”？Moderately Meets 为何会被淘汰？ | 读懂 Google Search 基础认知 系列 039
 
-> 🌐 **在线阅读与互动版**：[“中段排名的量化标尺到底在哪”？毫厘之间的位次之争：Highly、Moderately、Slightly Meets 的真实分界线 | 读懂 Google Search 基础认知 系列 039](https://blog.ittinker.com/posts/highly-moderately-slightly-meets-的边界怎么判断/)
+> 🌐 **在线阅读与互动版**：[“食之无味弃之可惜”？Moderately Meets 为何会被淘汰？ | 读懂 Google Search 基础认知 系列 039](https://blog.ittinker.com/posts/highly-moderately-slightly-meets-的边界怎么判断/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “满怀希望上线却一无所获”？七步踏空的惨痛教训：一个页面为什么会沦为 Fails to Meet 的弃儿？ | 读懂 Google Search 基础认知 系列 040
+# “沾点边就能拿曝光”？Slightly Meets 为何是无效流量？ | 读懂 Google Search 基础认知 系列 040
 
-> 🌐 **在线阅读与互动版**：[“满怀希望上线却一无所获”？七步踏空的惨痛教训：一个页面为什么会沦为 Fails to Meet 的弃儿？ | 读懂 Google Search 基础认知 系列 040](https://blog.ittinker.com/posts/一个页面为什么会-fails-to-meet/)
+> 🌐 **在线阅读与互动版**：[“沾点边就能拿曝光”？Slightly Meets 为何是无效流量？ | 读懂 Google Search 基础认知 系列 040](https://blog.ittinker.com/posts/一个页面为什么会-fails-to-meet/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

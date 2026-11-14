@@ -1,6 +1,6 @@
-# “用户拼错词是灾难还是机遇”？容错背后的流量密码：从 Typo 自动纠错到品牌命名 SEO 防御 | 读懂 Google Search 基础认知 系列 046
+# “大而全打不过小工具”？垂直特异性（Specificity）原则 | 读懂 Google Search 基础认知 系列 046
 
-> 🌐 **在线阅读与互动版**：[“用户拼错词是灾难还是机遇”？容错背后的流量密码：从 Typo 自动纠错到品牌命名 SEO 防御 | 读懂 Google Search 基础认知 系列 046](https://blog.ittinker.com/posts/拼错关键词-google-到底应该纠正到什么程度/)
+> 🌐 **在线阅读与互动版**：[“大而全打不过小工具”？垂直特异性（Specificity）原则 | 读懂 Google Search 基础认知 系列 046](https://blog.ittinker.com/posts/拼错关键词-google-到底应该纠正到什么程度/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

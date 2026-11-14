@@ -1,6 +1,6 @@
-# “不堆词我就不算作弊”？刻舟求剑的过时认知：Google 对 Spam 的现代定义，早已甩开传统站长十年！ | 读懂 Google Search 基础认知 系列 022
+# “功能好用但被判低质”？为什么不维护的废弃工具会被降权？ | 读懂 Google Search 基础认知 系列 022
 
-> 🌐 **在线阅读与互动版**：[“不堆词我就不算作弊”？刻舟求剑的过时认知：Google 对 Spam 的现代定义，早已甩开传统站长十年！ | 读懂 Google Search 基础认知 系列 022](https://blog.ittinker.com/posts/google-对-spam-的定义-已经远远超过-关键词堆砌/)
+> 🌐 **在线阅读与互动版**：[“功能好用但被判低质”？为什么不维护的废弃工具会被降权？ | 读懂 Google Search 基础认知 系列 022](https://blog.ittinker.com/posts/google-对-spam-的定义-已经远远超过-关键词堆砌/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

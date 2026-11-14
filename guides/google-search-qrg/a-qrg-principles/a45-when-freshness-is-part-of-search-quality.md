@@ -1,6 +1,6 @@
-# “每个月改一下文章发布日期就能保鲜”？自作聪明的保鲜伪造：Freshness 时效性意图与‘改日期欺诈’的必然终局 | 读懂 Google Search 基础认知 系列 045
+# “图片没有文字怎么拿分”？非文本页面在 Google 眼中的评级标准 | 读懂 Google Search 基础认知 系列 045
 
-> 🌐 **在线阅读与互动版**：[“每个月改一下文章发布日期就能保鲜”？自作聪明的保鲜伪造：Freshness 时效性意图与‘改日期欺诈’的必然终局 | 读懂 Google Search 基础认知 系列 045](https://blog.ittinker.com/posts/什么时候-freshness-是搜索质量的一部分/)
+> 🌐 **在线阅读与互动版**：[“图片没有文字怎么拿分”？非文本页面在 Google 眼中的评级标准 | 读懂 Google Search 基础认知 系列 045](https://blog.ittinker.com/posts/什么时候-freshness-是搜索质量的一部分/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

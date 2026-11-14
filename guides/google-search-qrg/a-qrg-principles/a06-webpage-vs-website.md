@@ -1,6 +1,6 @@
-# “单页满分整站就高枕无忧”？单页思维的巨大盲区：Google 眼中的 Webpage 与 Website 到底有什么本质界限？ | 读懂 Google Search 基础认知 系列 006
+# “单页满分整站稳了”？Webpage 与 Website 有何不同？ | 读懂 Google Search 基础认知 系列 006
 
-> 🌐 **在线阅读与互动版**：[“单页满分整站就高枕无忧”？单页思维的巨大盲区：Google 眼中的 Webpage 与 Website 到底有什么本质界限？ | 读懂 Google Search 基础认知 系列 006](https://blog.ittinker.com/posts/google-眼中的-webpage-和-website-到底有什么区别/)
+> 🌐 **在线阅读与互动版**：[“单页满分整站稳了”？Webpage 与 Website 有何不同？ | 读懂 Google Search 基础认知 系列 006](https://blog.ittinker.com/posts/google-眼中的-webpage-和-website-到底有什么区别/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “从宇宙大爆炸开始铺垫背景”？AI 内容充斥注水废话的致命绝症：如何彻底清除 Filler，避免页面被降档？ | 读懂 Google Search SEO 实战 系列 015
+# “什么叫 Filler”？为什么无意义填充文本会被直接判为低质？ | 读懂 Google Search SEO 实战 系列 015
 
-> 🌐 **在线阅读与互动版**：[“从宇宙大爆炸开始铺垫背景”？AI 内容充斥注水废话的致命绝症：如何彻底清除 Filler，避免页面被降档？ | 读懂 Google Search SEO 实战 系列 015](https://blog.ittinker.com/posts/什么叫-filler/)
+> 🌐 **在线阅读与互动版**：[“什么叫 Filler”？为什么无意义填充文本会被直接判为低质？ | 读懂 Google Search SEO 实战 系列 015](https://blog.ittinker.com/posts/什么叫-filler/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

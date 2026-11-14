@@ -1,6 +1,6 @@
-# “把 Top 10 文章洗一遍拼成大作”？毫无意义的洗稿拼贴：QRG 4.6 为什么判定改写与总结依然是‘零增量价值’？ | 读懂 Google Search 基础认知 系列 026
+# “没有大咖背书怎么破局”？普通开发者如何做出 High PQ 页面？ | 读懂 Google Search 基础认知 系列 026
 
-> 🌐 **在线阅读与互动版**：[“把 Top 10 文章洗一遍拼成大作”？毫无意义的洗稿拼贴：QRG 4.6 为什么判定改写与总结依然是‘零增量价值’？ | 读懂 Google Search 基础认知 系列 026](https://blog.ittinker.com/posts/改写-总结-拼接为什么可能仍然没有-added-value/)
+> 🌐 **在线阅读与互动版**：[“没有大咖背书怎么破局”？普通开发者如何做出 High PQ 页面？ | 读懂 Google Search 基础认知 系列 026](https://blog.ittinker.com/posts/改写-总结-拼接为什么可能仍然没有-added-value/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

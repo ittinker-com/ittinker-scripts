@@ -1,6 +1,6 @@
-# “月搜 10 万的大词为什么碰都不能碰”？虚荣指标背后的转化陷阱：高搜索量词为什么可能是拖垮你站点的毒药？ | 读懂 Google Search SEO 实战 系列 027
+# “搜索量大为何仍不值得做”？大词背后的商业与满足度陷阱 | 读懂 Google Search SEO 实战 系列 027
 
-> 🌐 **在线阅读与互动版**：[“月搜 10 万的大词为什么碰都不能碰”？虚荣指标背后的转化陷阱：高搜索量词为什么可能是拖垮你站点的毒药？ | 读懂 Google Search SEO 实战 系列 027](https://blog.ittinker.com/posts/search-volume-很大-为什么仍然可能不值得做/)
+> 🌐 **在线阅读与互动版**：[“搜索量大为何仍不值得做”？大词背后的商业与满足度陷阱 | 读懂 Google Search SEO 实战 系列 027](https://blog.ittinker.com/posts/search-volume-很大-为什么仍然可能不值得做/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

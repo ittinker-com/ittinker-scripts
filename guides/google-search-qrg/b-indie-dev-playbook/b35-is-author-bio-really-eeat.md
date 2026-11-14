@@ -1,6 +1,6 @@
-# “在文章底部挂个头像就是 E-E-A-T”？作者框装饰品的大清算：虚假作者盒正在害死你，如何构建真实可验证的专业履历？ | 读懂 Google Search SEO 实战 系列 035
+# “作者简介就是 E-E-A-T 吗”？虚假作者标签的识别与防范 | 读懂 Google Search SEO 实战 系列 035
 
-> 🌐 **在线阅读与互动版**：[“在文章底部挂个头像就是 E-E-A-T”？作者框装饰品的大清算：虚假作者盒正在害死你，如何构建真实可验证的专业履历？ | 读懂 Google Search SEO 实战 系列 035](https://blog.ittinker.com/posts/作者简介到底是不是-e-e-a-t/)
+> 🌐 **在线阅读与互动版**：[“作者简介就是 E-E-A-T 吗”？虚假作者标签的识别与防范 | 读懂 Google Search SEO 实战 系列 035](https://blog.ittinker.com/posts/作者简介到底是不是-e-e-a-t/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

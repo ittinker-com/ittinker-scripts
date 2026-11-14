@@ -1,6 +1,6 @@
-# “大部分网站为什么卡在及格线”？不上不下的中庸困局：QRG 6.0 深度解构 Medium 质量的真实边界 | 读懂 Google Search 基础认知 系列 028
+# “只要答完问题就行吗”？从用户真实链路洞察隐藏需求 | 读懂 Google Search 基础认知 系列 028
 
-> 🌐 **在线阅读与互动版**：[“大部分网站为什么卡在及格线”？不上不下的中庸困局：QRG 6.0 深度解构 Medium 质量的真实边界 | 读懂 Google Search 基础认知 系列 028](https://blog.ittinker.com/posts/为什么互联网上大多数正常网页其实都只是-medium/)
+> 🌐 **在线阅读与互动版**：[“只要答完问题就行吗”？从用户真实链路洞察隐藏需求 | 读懂 Google Search 基础认知 系列 028](https://blog.ittinker.com/posts/为什么互联网上大多数正常网页其实都只是-medium/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

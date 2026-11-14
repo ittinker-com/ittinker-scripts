@@ -1,6 +1,6 @@
-# “维基百科写得再详尽也不是最好的搜索结果”？双轴错位的直观呈现：为什么页面质量（PQ）极高却解决不了用户的即时行动？ | 读懂 Google Search SEO 实战 系列 042
+# “维基百科写得再详尽也不是首选”？PQ 与 NM 的双轴错位分析 | 读懂 Google Search SEO 实战 系列 042
 
-> 🌐 **在线阅读与互动版**：[“维基百科写得再详尽也不是最好的搜索结果”？双轴错位的直观呈现：为什么页面质量（PQ）极高却解决不了用户的即时行动？ | 读懂 Google Search SEO 实战 系列 042](https://blog.ittinker.com/posts/为什么-wikipedia-很优秀-却不一定是最好的搜索结果/)
+> 🌐 **在线阅读与互动版**：[“维基百科写得再详尽也不是首选”？PQ 与 NM 的双轴错位分析 | 读懂 Google Search SEO 实战 系列 042](https://blog.ittinker.com/posts/为什么-wikipedia-很优秀-却不一定是最好的搜索结果/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

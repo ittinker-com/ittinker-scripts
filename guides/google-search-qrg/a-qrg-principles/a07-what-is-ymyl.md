@@ -1,6 +1,6 @@
-# “我的工具站怎么会是 YMYL”？冷冰冰的合规铁拳：为什么沾上金钱与健康的内容在 Google 眼里必须接受最残酷的审查？ | 读懂 Google Search 基础认知 系列 007
+# “工具站不用在乎合规”？什么是 YMYL 与财务健康审查底线？ | 读懂 Google Search 基础认知 系列 007
 
-> 🌐 **在线阅读与互动版**：[“我的工具站怎么会是 YMYL”？冷冰冰的合规铁拳：为什么沾上金钱与健康的内容在 Google 眼里必须接受最残酷的审查？ | 读懂 Google Search 基础认知 系列 007](https://blog.ittinker.com/posts/什么是-ymyl/)
+> 🌐 **在线阅读与互动版**：[“工具站不用在乎合规”？什么是 YMYL 与财务健康审查底线？ | 读懂 Google Search 基础认知 系列 007](https://blog.ittinker.com/posts/什么是-ymyl/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

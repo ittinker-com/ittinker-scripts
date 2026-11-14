@@ -1,6 +1,6 @@
-# “花几千块买关键词工具不如看搜索结果第一页”？最昂贵的情报就在眼前：SERP Top 10 本身就是 Google 给你的需求研究报告！ | 读懂 Google Search SEO 实战 系列 028
+# “SERP 前十名就是现成答卷”？反推用户需求的最高效方法 | 读懂 Google Search SEO 实战 系列 028
 
-> 🌐 **在线阅读与互动版**：[“花几千块买关键词工具不如看搜索结果第一页”？最昂贵的情报就在眼前：SERP Top 10 本身就是 Google 给你的需求研究报告！ | 读懂 Google Search SEO 实战 系列 028](https://blog.ittinker.com/posts/serp-top-10-本身就是一份用户需求研究报告/)
+> 🌐 **在线阅读与互动版**：[“SERP 前十名就是现成答卷”？反推用户需求的最高效方法 | 读懂 Google Search SEO 实战 系列 028](https://blog.ittinker.com/posts/serp-top-10-本身就是一份用户需求研究报告/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

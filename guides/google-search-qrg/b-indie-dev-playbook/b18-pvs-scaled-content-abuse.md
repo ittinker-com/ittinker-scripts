@@ -1,6 +1,6 @@
-# “程序化建站就是黑帽 Scaled Abuse”？合规出海与灰产垃圾的楚河汉界：Programmatic SEO 和规模化滥用的真实边界 | 读懂 Google Search SEO 实战 系列 018
+# “pSEO 与规模化内容滥用的边界在哪”？自动化建站合规指南 | 读懂 Google Search SEO 实战 系列 018
 
-> 🌐 **在线阅读与互动版**：[“程序化建站就是黑帽 Scaled Abuse”？合规出海与灰产垃圾的楚河汉界：Programmatic SEO 和规模化滥用的真实边界 | 读懂 Google Search SEO 实战 系列 018](https://blog.ittinker.com/posts/programmatic-seo-和-scaled-content-abuse-的边界在哪里/)
+> 🌐 **在线阅读与互动版**：[“pSEO 与规模化内容滥用的边界在哪”？自动化建站合规指南 | 读懂 Google Search SEO 实战 系列 018](https://blog.ittinker.com/posts/programmatic-seo-和-scaled-content-abuse-的边界在哪里/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “藏起公司地址免得被骚扰”？自以为聪明的信任自杀：欺诈信号、身份隐瞒与负面声誉的致命叠加 | 读懂 Google Search 基础认知 系列 021
+# “藏起地址免得被骚扰”？为什么隐瞒身份会让网站不被信任？ | 读懂 Google Search 基础认知 系列 021
 
-> 🌐 **在线阅读与互动版**：[“藏起公司地址免得被骚扰”？自以为聪明的信任自杀：欺诈信号、身份隐瞒与负面声誉的致命叠加 | 读懂 Google Search 基础认知 系列 021](https://blog.ittinker.com/posts/一个网站为什么会被判断为-untrustworthy/)
+> 🌐 **在线阅读与互动版**：[“藏起地址免得被骚扰”？为什么隐瞒身份会让网站不被信任？ | 读懂 Google Search 基础认知 系列 021](https://blog.ittinker.com/posts/一个网站为什么会被判断为-untrustworthy/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

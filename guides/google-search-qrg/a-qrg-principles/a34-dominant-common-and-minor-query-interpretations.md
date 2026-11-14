@@ -1,6 +1,6 @@
-# “同一个词搜出来的内容千差万别”？意图分裂的致命陷阱：Dominant、Common 与 Minor Interpretation 深度解构 | 读懂 Google Search 基础认知 系列 034
+# “官网凭什么霸占第一”？Website Intent 导航词优化逻辑 | 读懂 Google Search 基础认知 系列 034
 
-> 🌐 **在线阅读与互动版**：[“同一个词搜出来的内容千差万别”？意图分裂的致命陷阱：Dominant、Common 与 Minor Interpretation 深度解构 | 读懂 Google Search 基础认知 系列 034](https://blog.ittinker.com/posts/同一个关键词为什么可能有完全不同的意思/)
+> 🌐 **在线阅读与互动版**：[“官网凭什么霸占第一”？Website Intent 导航词优化逻辑 | 读懂 Google Search 基础认知 系列 034](https://blog.ittinker.com/posts/同一个关键词为什么可能有完全不同的意思/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

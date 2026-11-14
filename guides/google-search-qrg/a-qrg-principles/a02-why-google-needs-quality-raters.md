@@ -1,6 +1,6 @@
-# “QRG 打分就是排名算法”？被无数站长误读的致命迷思：Google 为什么在 AI 时代依然雇佣上万人做人工质量评估？ | 读懂 Google Search 基础认知 系列 002
+# “人工打分定排名”？Google 为何雇佣评分员？ | 读懂 Google Search 基础认知 系列 002
 
-> 🌐 **在线阅读与互动版**：[“QRG 打分就是排名算法”？被无数站长误读的致命迷思：Google 为什么在 AI 时代依然雇佣上万人做人工质量评估？ | 读懂 Google Search 基础认知 系列 002](https://blog.ittinker.com/posts/google-为什么还需要人工-quality-rater/)
+> 🌐 **在线阅读与互动版**：[“人工打分定排名”？Google 为何雇佣评分员？ | 读懂 Google Search 基础认知 系列 002](https://blog.ittinker.com/posts/google-为什么还需要人工-quality-rater/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

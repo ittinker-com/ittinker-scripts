@@ -1,6 +1,6 @@
-# “单页必须满 1500 字”？被奉为圭臬的 SEO 圣经，为什么正在害死你的 AI 工具页？ | 读懂 Google Search SEO 实战 系列 001
+# “工具页必须写满两千字”？AI 工具站到底需要多少文字？ | 读懂 Google Search SEO 实战 系列 001
 
-> 🌐 **在线阅读与互动版**：[“单页必须满 1500 字”？被奉为圭臬的 SEO 圣经，为什么正在害死你的 AI 工具页？ | 读懂 Google Search SEO 实战 系列 001](https://blog.ittinker.com/posts/一个-ai-工具页面到底需要多少文字/)
+> 🌐 **在线阅读与互动版**：[“工具页必须写满两千字”？AI 工具站到底需要多少文字？ | 读懂 Google Search SEO 实战 系列 001](https://blog.ittinker.com/posts/一个-ai-工具页面到底需要多少文字/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

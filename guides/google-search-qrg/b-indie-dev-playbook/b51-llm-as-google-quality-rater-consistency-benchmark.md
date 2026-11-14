@@ -1,6 +1,6 @@
-# “让三大主流大模型给同一个网站打分”？AI 评估员的真实较量：GPT、Claude、Gemini 的 QRG 盲测实验谁更懂 Google？ | 读懂 Google Search SEO 实战 系列 051
+# “三大模型同场盲测”？主流 LLM 的 QRG 评估一致性 | 读懂 Google Search SEO 实战 系列 051
 
-> 🌐 **在线阅读与互动版**：[“让三大主流大模型给同一个网站打分”？AI 评估员的真实较量：GPT、Claude、Gemini 的 QRG 盲测实验谁更懂 Google？ | 读懂 Google Search SEO 实战 系列 051](https://blog.ittinker.com/posts/让-gpt-claude-gemini-当-quality-rater-评分会一致吗/)
+> 🌐 **在线阅读与互动版**：[“三大模型同场盲测”？主流 LLM 的 QRG 评估一致性 | 读懂 Google Search SEO 实战 系列 051](https://blog.ittinker.com/posts/让-gpt-claude-gemini-当-quality-rater-评分会一致吗/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

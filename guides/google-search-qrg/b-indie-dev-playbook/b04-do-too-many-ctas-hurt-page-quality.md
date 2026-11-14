@@ -1,6 +1,6 @@
-# “CTA 越多转化越高”？出海独立开发者的转化迷信，为什么正在把你的落地页送进 Google 降权黑名单？ | 读懂 Google Search SEO 实战 系列 004
+# “按钮越多转化越高”？CTA 泛滥是如何伤害页面质量的？ | 读懂 Google Search SEO 实战 系列 004
 
-> 🌐 **在线阅读与互动版**：[“CTA 越多转化越高”？出海独立开发者的转化迷信，为什么正在把你的落地页送进 Google 降权黑名单？ | 读懂 Google Search SEO 实战 系列 004](https://blog.ittinker.com/posts/cta-太多会不会伤害页面质量/)
+> 🌐 **在线阅读与互动版**：[“按钮越多转化越高”？CTA 泛滥是如何伤害页面质量的？ | 读懂 Google Search SEO 实战 系列 004](https://blog.ittinker.com/posts/cta-太多会不会伤害页面质量/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

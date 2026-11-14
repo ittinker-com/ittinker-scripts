@@ -1,6 +1,6 @@
-# “两两对比批量生成几千个 Compare 页”？拼贴伪对比的死期：从无意义的参数搬运到真正能帮用户选型的决策利器 | 读懂 Google Search SEO 实战 系列 020
+# “A vs B 批量对比页何时有价值”？软件选型对比页破局之道 | 读懂 Google Search SEO 实战 系列 020
 
-> 🌐 **在线阅读与互动版**：[“两两对比批量生成几千个 Compare 页”？拼贴伪对比的死期：从无意义的参数搬运到真正能帮用户选型的决策利器 | 读懂 Google Search SEO 实战 系列 020](https://blog.ittinker.com/posts/compare-页面批量生成-什么时候有价值/)
+> 🌐 **在线阅读与互动版**：[“A vs B 批量对比页何时有价值”？软件选型对比页破局之道 | 读懂 Google Search SEO 实战 系列 020](https://blog.ittinker.com/posts/compare-页面批量生成-什么时候有价值/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

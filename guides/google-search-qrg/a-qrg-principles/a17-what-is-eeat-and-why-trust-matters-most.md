@@ -1,6 +1,6 @@
-# “E-E-A-T 就是填满四个复选框”？形式主义 SEO 的终局：为什么 Trust 才是整个评估体系唯一的承重墙？ | 读懂 Google Search 基础认知 系列 017
+# “E-E-A-T 只是打勾项”？为什么 Trust 是唯一核心承重墙？ | 读懂 Google Search 基础认知 系列 017
 
-> 🌐 **在线阅读与互动版**：[“E-E-A-T 就是填满四个复选框”？形式主义 SEO 的终局：为什么 Trust 才是整个评估体系唯一的承重墙？ | 读懂 Google Search 基础认知 系列 017](https://blog.ittinker.com/posts/e-e-a-t-到底是什么-为什么-trust-是唯一核心/)
+> 🌐 **在线阅读与互动版**：[“E-E-A-T 只是打勾项”？为什么 Trust 是唯一核心承重墙？ | 读懂 Google Search 基础认知 系列 017](https://blog.ittinker.com/posts/e-e-a-t-到底是什么-为什么-trust-是唯一核心/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

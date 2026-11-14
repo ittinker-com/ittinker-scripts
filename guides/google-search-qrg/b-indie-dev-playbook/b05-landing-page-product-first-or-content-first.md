@@ -1,6 +1,6 @@
-# “首屏必须堆满 SEO 导语”？向爬虫妥协的古董思维，为什么正在让你的 Landing Page 既丢排名又丢转化？ | 读懂 Google Search SEO 实战 系列 005
+# “先讲产品还是先写文本”？落地页首屏博弈与意图对齐 | 读懂 Google Search SEO 实战 系列 005
 
-> 🌐 **在线阅读与互动版**：[“首屏必须堆满 SEO 导语”？向爬虫妥协的古董思维，为什么正在让你的 Landing Page 既丢排名又丢转化？ | 读懂 Google Search SEO 实战 系列 005](https://blog.ittinker.com/posts/landing-page-应该先讲产品-还是先讲-seo-内容/)
+> 🌐 **在线阅读与互动版**：[“先讲产品还是先写文本”？落地页首屏博弈与意图对齐 | 读懂 Google Search SEO 实战 系列 005](https://blog.ittinker.com/posts/landing-page-应该先讲产品-还是先讲-seo-内容/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

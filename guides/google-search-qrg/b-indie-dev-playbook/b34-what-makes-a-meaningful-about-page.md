@@ -1,6 +1,6 @@
-# “About 页面抄个模版写几句我们很专业”？形同虚设的主体信用：跳出 SEO 八股八股文，写出让评估员和用户都信服的实锤页面 | 读懂 Google Search SEO 实战 系列 034
+# “关于页到底应该写什么”？About 页面的可信度审计标准 | 读懂 Google Search SEO 实战 系列 034
 
-> 🌐 **在线阅读与互动版**：[“About 页面抄个模版写几句我们很专业”？形同虚设的主体信用：跳出 SEO 八股八股文，写出让评估员和用户都信服的实锤页面 | 读懂 Google Search SEO 实战 系列 034](https://blog.ittinker.com/posts/about-页面到底应该写什么/)
+> 🌐 **在线阅读与互动版**：[“关于页到底应该写什么”？About 页面的可信度审计标准 | 读懂 Google Search SEO 实战 系列 034](https://blog.ittinker.com/posts/about-页面到底应该写什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

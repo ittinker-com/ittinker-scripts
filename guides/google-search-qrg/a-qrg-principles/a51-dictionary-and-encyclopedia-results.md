@@ -1,6 +1,6 @@
-# “我在北京凭什么搜到纽约的修水管工”？脱离地理位置的荒唐优化：Visit-in-Person 与本地搜索意图实战 | 读懂 Google Search 基础认知 系列 051
+# “广告伪装成按钮多赚钱”？欺骗性广告（Deceptive Ads）惩罚 | 读懂 Google Search 基础认知 系列 051
 
-> 🌐 **在线阅读与互动版**：[“我在北京凭什么搜到纽约的修水管工”？脱离地理位置的荒唐优化：Visit-in-Person 与本地搜索意图实战 | 读懂 Google Search 基础认知 系列 051](https://blog.ittinker.com/posts/词典和百科为什么有时是最佳答案-有时完全不够/)
+> 🌐 **在线阅读与互动版**：[“广告伪装成按钮多赚钱”？欺骗性广告（Deceptive Ads）惩罚 | 读懂 Google Search 基础认知 系列 051](https://blog.ittinker.com/posts/词典和百科为什么有时是最佳答案-有时完全不够/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

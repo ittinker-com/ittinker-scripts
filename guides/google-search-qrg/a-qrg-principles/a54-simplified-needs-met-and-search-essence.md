@@ -1,6 +1,6 @@
-# “把英文站直接直译成小语种就能躺赚”？小语种出海的认知黑洞：非英语 SERP 的特殊生态与本地化真实门槛 | 读懂 Google Search 基础认知 系列 054
+# “110 篇实战指南完结”？从 QRG 原则通往独立出海的终局思维 | 读懂 Google Search 基础认知 系列 054
 
-> 🌐 **在线阅读与互动版**：[“把英文站直接直译成小语种就能躺赚”？小语种出海的认知黑洞：非英语 SERP 的特殊生态与本地化真实门槛 | 读懂 Google Search 基础认知 系列 054](https://blog.ittinker.com/posts/把复杂-needs-met-简化之后-真正剩下的是什么/)
+> 🌐 **在线阅读与互动版**：[“110 篇实战指南完结”？从 QRG 原则通往独立出海的终局思维 | 读懂 Google Search 基础认知 系列 054](https://blog.ittinker.com/posts/把复杂-needs-met-简化之后-真正剩下的是什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

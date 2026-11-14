@@ -1,6 +1,6 @@
-# “新站没有声誉注定永无出头之日”？新手的自暴自弃：QRG 3.3.4 新站冷启动信任破局指南 | 读懂 Google Search 基础认知 系列 016
+# “新站无声誉注定没流量”？新站冷启动如何跨过信任门槛？ | 读懂 Google Search 基础认知 系列 016
 
-> 🌐 **在线阅读与互动版**：[“新站没有声誉注定永无出头之日”？新手的自暴自弃：QRG 3.3.4 新站冷启动信任破局指南 | 读懂 Google Search 基础认知 系列 016](https://blog.ittinker.com/posts/新网站没有-reputation-是不是天然吃亏/)
+> 🌐 **在线阅读与互动版**：[“新站无声誉注定没流量”？新站冷启动如何跨过信任门槛？ | 读懂 Google Search 基础认知 系列 016](https://blog.ittinker.com/posts/新网站没有-reputation-是不是天然吃亏/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

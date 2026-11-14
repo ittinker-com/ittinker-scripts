@@ -1,6 +1,6 @@
-# “改好这三个标签就能拿高分”？碎片化 SEO 的彻底破产：一张图建立 Google 页面质量（Page Quality）审核总框架 | 读懂 Google Search 基础认知 系列 011
+# “改好标签就能提分”？一张图拆解 Page Quality 审核框架 | 读懂 Google Search 基础认知 系列 011
 
-> 🌐 **在线阅读与互动版**：[“改好这三个标签就能拿高分”？碎片化 SEO 的彻底破产：一张图建立 Google 页面质量（Page Quality）审核总框架 | 读懂 Google Search 基础认知 系列 011](https://blog.ittinker.com/posts/page-quality-到底在评什么/)
+> 🌐 **在线阅读与互动版**：[“改好标签就能提分”？一张图拆解 Page Quality 审核框架 | 读懂 Google Search 基础认知 系列 011](https://blog.ittinker.com/posts/page-quality-到底在评什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “所有文章必须每个月翻新一遍”？疲于奔命的错误坚持：Query 时效敏感度模型与内容维护的科学分级 | 读懂 Google Search SEO 实战 系列 046
+# “所有文章都要每月翻新一遍吗”？时效敏感度（Freshness）模型 | 读懂 Google Search SEO 实战 系列 046
 
-> 🌐 **在线阅读与互动版**：[“所有文章必须每个月翻新一遍”？疲于奔命的错误坚持：Query 时效敏感度模型与内容维护的科学分级 | 读懂 Google Search SEO 实战 系列 046](https://blog.ittinker.com/posts/freshness-不是所有文章都要-每月更新/)
+> 🌐 **在线阅读与互动版**：[“所有文章都要每月翻新一遍吗”？时效敏感度（Freshness）模型 | 读懂 Google Search SEO 实战 系列 046](https://blog.ittinker.com/posts/freshness-不是所有文章都要-每月更新/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

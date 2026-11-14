@@ -1,6 +1,6 @@
-# “About 和 Contact 只是摆设”？被当成装饰品的致命信用底盘：为什么缺乏真实联系方式会让你的网站评级直接腰斩？ | 读懂 Google Search 基础认知 系列 010
+# “About 页面只是摆设”？真实联系方式为什么是信任底盘？ | 读懂 Google Search 基础认知 系列 010
 
-> 🌐 **在线阅读与互动版**：[“About 和 Contact 只是摆设”？被当成装饰品的致命信用底盘：为什么缺乏真实联系方式会让你的网站评级直接腰斩？ | 读懂 Google Search 基础认知 系列 010](https://blog.ittinker.com/posts/about-contact-customer-service-为什么不是-seo-装饰/)
+> 🌐 **在线阅读与互动版**：[“About 页面只是摆设”？真实联系方式为什么是信任底盘？ | 读懂 Google Search 基础认知 系列 010](https://blog.ittinker.com/posts/about-contact-customer-service-为什么不是-seo-装饰/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

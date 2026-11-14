@@ -1,6 +1,6 @@
-# “苹果是水果还是手机”？多义词面前的站队智慧：面对模糊搜索词（Ambiguous Query），独立站点如何选准侧翼？ | 读懂 Google Search 基础认知 系列 050
+# “一键批量生成几万页”？自动生成内容（Automated）生存底线 | 读懂 Google Search 基础认知 系列 050
 
-> 🌐 **在线阅读与互动版**：[“苹果是水果还是手机”？多义词面前的站队智慧：面对模糊搜索词（Ambiguous Query），独立站点如何选准侧翼？ | 读懂 Google Search 基础认知 系列 050](https://blog.ittinker.com/posts/非英语市场出现英文结果-到底算不算好结果/)
+> 🌐 **在线阅读与互动版**：[“一键批量生成几万页”？自动生成内容（Automated）生存底线 | 读懂 Google Search 基础认知 系列 050](https://blog.ittinker.com/posts/非英语市场出现英文结果-到底算不算好结果/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

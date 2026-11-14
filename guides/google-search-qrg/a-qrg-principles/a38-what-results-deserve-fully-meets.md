@@ -1,6 +1,6 @@
-# “所有词都想拿 Fully Meets”？不自量力的虚妄目标：为什么苛刻条件与宽泛词天然不存在‘完美解’？ | 读懂 Google Search 基础认知 系列 038
+# “绝大多数页面的上限”？Highly Meets 核心特征与落地指南 | 读懂 Google Search 基础认知 系列 038
 
-> 🌐 **在线阅读与互动版**：[“所有词都想拿 Fully Meets”？不自量力的虚妄目标：为什么苛刻条件与宽泛词天然不存在‘完美解’？ | 读懂 Google Search 基础认知 系列 038](https://blog.ittinker.com/posts/什么结果才配得上-fully-meets/)
+> 🌐 **在线阅读与互动版**：[“绝大多数页面的上限”？Highly Meets 核心特征与落地指南 | 读懂 Google Search 基础认知 系列 038](https://blog.ittinker.com/posts/什么结果才配得上-fully-meets/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

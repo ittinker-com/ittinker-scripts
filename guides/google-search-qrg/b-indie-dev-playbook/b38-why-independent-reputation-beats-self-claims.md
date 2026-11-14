@@ -1,6 +1,6 @@
-# “在自己网站写一万句好话抵不过 Reddit 一条真实吐槽”？外部讨论的绝对权重：第三方独立声誉如何决定你的生死？ | 读懂 Google Search SEO 实战 系列 038
+# “自吹万句不如 Reddit 一条吐槽”？第三方独立声誉权重解析 | 读懂 Google Search SEO 实战 系列 038
 
-> 🌐 **在线阅读与互动版**：[“在自己网站写一万句好话抵不过 Reddit 一条真实吐槽”？外部讨论的绝对权重：第三方独立声誉如何决定你的生死？ | 读懂 Google Search SEO 实战 系列 038](https://blog.ittinker.com/posts/第三方评价为什么碾压自吹自擂/)
+> 🌐 **在线阅读与互动版**：[“自吹万句不如 Reddit 一条吐槽”？第三方独立声誉权重解析 | 读懂 Google Search SEO 实战 系列 038](https://blog.ittinker.com/posts/第三方评价为什么碾压自吹自擂/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

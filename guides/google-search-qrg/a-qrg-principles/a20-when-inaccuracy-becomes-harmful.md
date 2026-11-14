@@ -1,6 +1,6 @@
-# “错一点点事实有什么要紧”？从低质滑向违法的断崖：错误信息什么时候会从‘质量差’变成‘有害（Harmful）’？ | 读懂 Google Search 基础认知 系列 020
+# “写错参数就是有害吗”？低质错误何时会上升为 Harmful 判定？ | 读懂 Google Search 基础认知 系列 020
 
-> 🌐 **在线阅读与互动版**：[“错一点点事实有什么要紧”？从低质滑向违法的断崖：错误信息什么时候会从‘质量差’变成‘有害（Harmful）’？ | 读懂 Google Search 基础认知 系列 020](https://blog.ittinker.com/posts/错误信息什么时候会从-质量差-变成-有害-harmful/)
+> 🌐 **在线阅读与互动版**：[“写错参数就是有害吗”？低质错误何时会上升为 Harmful 判定？ | 读懂 Google Search 基础认知 系列 020](https://blog.ittinker.com/posts/错误信息什么时候会从-质量差-变成-有害-harmful/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

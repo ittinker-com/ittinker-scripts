@@ -1,6 +1,6 @@
-# “AI 时代什么内容还需要人亲手写”？被机器替代的恐慌解药：打造不可替代的 E-E-A-T 个人与团队护城河 | 读懂 Google Search SEO 实战 系列 013
+# “AI 时代什么内容值得亲自写”？不可替代的人类心力（Effort） | 读懂 Google Search SEO 实战 系列 013
 
-> 🌐 **在线阅读与互动版**：[“AI 时代什么内容还需要人亲手写”？被机器替代的恐慌解药：打造不可替代的 E-E-A-T 个人与团队护城河 | 读懂 Google Search SEO 实战 系列 013](https://blog.ittinker.com/posts/ai-时代-什么内容值得人亲自写/)
+> 🌐 **在线阅读与互动版**：[“AI 时代什么内容值得亲自写”？不可替代的人类心力（Effort） | 读懂 Google Search SEO 实战 系列 013](https://blog.ittinker.com/posts/ai-时代-什么内容值得人亲自写/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

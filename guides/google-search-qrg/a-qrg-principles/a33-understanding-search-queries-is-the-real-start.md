@@ -1,6 +1,6 @@
-# “盯着搜索词看不如看用户想干嘛”？跳出关键词的思维革命：从‘找词打标签’到‘解构用户真实需求’ | 读懂 Google Search 基础认知 系列 033
+# “简答题还是大综述”？Know Simple 对内容型站点的生死冲击 | 读懂 Google Search 基础认知 系列 033
 
-> 🌐 **在线阅读与互动版**：[“盯着搜索词看不如看用户想干嘛”？跳出关键词的思维革命：从‘找词打标签’到‘解构用户真实需求’ | 读懂 Google Search 基础认知 系列 033](https://blog.ittinker.com/posts/理解-query-是搜索优化真正的起点/)
+> 🌐 **在线阅读与互动版**：[“简答题还是大综述”？Know Simple 对内容型站点的生死冲击 | 读懂 Google Search 基础认知 系列 033](https://blog.ittinker.com/posts/理解-query-是搜索优化真正的起点/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

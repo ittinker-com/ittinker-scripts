@@ -1,6 +1,6 @@
-# “我的内容不是垃圾怎么没有排名”？普通平庸的慢性死亡：QRG 5.0 告诉你，Low Quality 往往只是因为‘不够好’ | 读懂 Google Search 基础认知 系列 027
+# “大厂大V就能垄断排名”？Highest PQ 评级背后的顶级标准 | 读懂 Google Search 基础认知 系列 027
 
-> 🌐 **在线阅读与互动版**：[“我的内容不是垃圾怎么没有排名”？普通平庸的慢性死亡：QRG 5.0 告诉你，Low Quality 往往只是因为‘不够好’ | 读懂 Google Search 基础认知 系列 027](https://blog.ittinker.com/posts/low-quality-页面往往不是垃圾-只是-不够好/)
+> 🌐 **在线阅读与互动版**：[“大厂大V就能垄断排名”？Highest PQ 评级背后的顶级标准 | 读懂 Google Search 基础认知 系列 027](https://blog.ittinker.com/posts/low-quality-页面往往不是垃圾-只是-不够好/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

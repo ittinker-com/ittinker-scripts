@@ -1,6 +1,6 @@
-# “花钱刷几个五星好评就行”？黑产刷评的自掘坟墓：Google 识别 Customer Reviews 真实声誉的底层标尺 | 读懂 Google Search 基础认知 系列 014
+# “花钱刷好评能冲分”？Google 如何识别真实用户评论与口碑？ | 读懂 Google Search 基础认知 系列 014
 
-> 🌐 **在线阅读与互动版**：[“花钱刷几个五星好评就行”？黑产刷评的自掘坟墓：Google 识别 Customer Reviews 真实声誉的底层标尺 | 读懂 Google Search 基础认知 系列 014](https://blog.ittinker.com/posts/用户评论到底算不算-信誉/)
+> 🌐 **在线阅读与互动版**：[“花钱刷好评能冲分”？Google 如何识别真实用户评论与口碑？ | 读懂 Google Search 基础认知 系列 014](https://blog.ittinker.com/posts/用户评论到底算不算-信誉/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

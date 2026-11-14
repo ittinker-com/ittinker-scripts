@@ -1,6 +1,6 @@
-# “再差也不至于判最低档吧”？触碰红线的粉身碎骨：什么样的网页会直接跌入 Lowest Quality 的无底深渊？ | 读懂 Google Search 基础认知 系列 019
+# “文笔粗糙就算低质吗”？触碰哪些红线会跌入 Lowest PQ？ | 读懂 Google Search 基础认知 系列 019
 
-> 🌐 **在线阅读与互动版**：[“再差也不至于判最低档吧”？触碰红线的粉身碎骨：什么样的网页会直接跌入 Lowest Quality 的无底深渊？ | 读懂 Google Search 基础认知 系列 019](https://blog.ittinker.com/posts/什么样的网页会直接落到-lowest-quality/)
+> 🌐 **在线阅读与互动版**：[“文笔粗糙就算低质吗”？触碰哪些红线会跌入 Lowest PQ？ | 读懂 Google Search 基础认知 系列 019](https://blog.ittinker.com/posts/什么样的网页会直接落到-lowest-quality/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

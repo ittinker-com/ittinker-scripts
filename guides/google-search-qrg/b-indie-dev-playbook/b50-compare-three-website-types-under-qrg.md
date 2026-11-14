@@ -1,6 +1,6 @@
-# 商业网站同时翻车：一套“满分 SEO 模板”背后的致命错配，我用 Google QRG 实测工具站、内容站与 SaaS 的质量标尺分化 | 读懂 Google Search SEO 实战 系列 050
+# “SEO 模板同时翻车”？实测工具站、内容站与 SaaS 质量标尺 | 读懂 Google Search SEO 实战 系列 050
 
-> 🌐 **在线阅读与互动版**：[商业网站同时翻车：一套“满分 SEO 模板”背后的致命错配，我用 Google QRG 实测工具站、内容站与 SaaS 的质量标尺分化 | 读懂 Google Search SEO 实战 系列 050](https://blog.ittinker.com/posts/商业网站同时翻车-满分-seo-模板-qrg-实测/)
+> 🌐 **在线阅读与互动版**：[“SEO 模板同时翻车”？实测工具站、内容站与 SaaS 质量标尺 | 读懂 Google Search SEO 实战 系列 050](https://blog.ittinker.com/posts/商业网站同时翻车-满分-seo-模板-qrg-实测/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

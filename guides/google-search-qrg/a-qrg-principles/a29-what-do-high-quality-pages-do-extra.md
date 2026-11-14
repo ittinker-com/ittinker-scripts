@@ -1,6 +1,6 @@
-# “从及格跃升卓越到底差在哪”？拉开身位的关键胜负手：QRG 7.0 High Quality 页面必须做到的四个核心动作 | 读懂 Google Search 基础认知 系列 029
+# “搜一个词全球都一样”？User Location 怎样影响检索结果？ | 读懂 Google Search 基础认知 系列 029
 
-> 🌐 **在线阅读与互动版**：[“从及格跃升卓越到底差在哪”？拉开身位的关键胜负手：QRG 7.0 High Quality 页面必须做到的四个核心动作 | 读懂 Google Search 基础认知 系列 029](https://blog.ittinker.com/posts/high-quality-页面到底多做了什么/)
+> 🌐 **在线阅读与互动版**：[“搜一个词全球都一样”？User Location 怎样影响检索结果？ | 读懂 Google Search 基础认知 系列 029](https://blog.ittinker.com/posts/high-quality-页面到底多做了什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

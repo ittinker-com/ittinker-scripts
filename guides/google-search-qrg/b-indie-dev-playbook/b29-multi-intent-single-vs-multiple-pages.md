@@ -1,6 +1,6 @@
-# “一个词既有人查概念又有人找工具”？复合意图的页面抉择：到底该在一个页面一网打尽，还是拆成多个精细页面？ | 读懂 Google Search SEO 实战 系列 029
+# “词有多个意图该分还是合”？复合需求下的页面拆合策略 | 读懂 Google Search SEO 实战 系列 029
 
-> 🌐 **在线阅读与互动版**：[“一个词既有人查概念又有人找工具”？复合意图的页面抉择：到底该在一个页面一网打尽，还是拆成多个精细页面？ | 读懂 Google Search SEO 实战 系列 029](https://blog.ittinker.com/posts/一个-query-有多个-intent-时-应该建一个页面还是多个页面/)
+> 🌐 **在线阅读与互动版**：[“词有多个意图该分还是合”？复合需求下的页面拆合策略 | 读懂 Google Search SEO 实战 系列 029](https://blog.ittinker.com/posts/一个-query-有多个-intent-时-应该建一个页面还是多个页面/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

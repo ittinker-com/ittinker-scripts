@@ -1,6 +1,6 @@
-# “自称业内领先、性能最好却拿不出证据”？自说自话的信任崩塌：Claim → Evidence 实战模型彻底终结空口吹嘘 | 读懂 Google Search SEO 实战 系列 036
+# “空口无凭谁会相信”？Claim-Evidence 实战证明模型 | 读懂 Google Search SEO 实战 系列 036
 
-> 🌐 **在线阅读与互动版**：[“自称业内领先、性能最好却拿不出证据”？自说自话的信任崩塌：Claim → Evidence 实战模型彻底终结空口吹嘘 | 读懂 Google Search SEO 实战 系列 036](https://blog.ittinker.com/posts/claim-evidence-实战模型/)
+> 🌐 **在线阅读与互动版**：[“空口无凭谁会相信”？Claim-Evidence 实战证明模型 | 读懂 Google Search SEO 实战 系列 036](https://blog.ittinker.com/posts/claim-evidence-实战模型/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

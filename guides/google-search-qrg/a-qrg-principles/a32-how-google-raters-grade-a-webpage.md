@@ -1,6 +1,6 @@
-# “真让你当 Rater 你能打几分”？走出主观偏见的上帝视角：端到端 PQ 评分全流程实战复盘 | 读懂 Google Search 基础认知 系列 032
+# “想查还是想动手”？Know 与 Do 意图的落地页设计 | 读懂 Google Search 基础认知 系列 032
 
-> 🌐 **在线阅读与互动版**：[“真让你当 Rater 你能打几分”？走出主观偏见的上帝视角：端到端 PQ 评分全流程实战复盘 | 读懂 Google Search 基础认知 系列 032](https://blog.ittinker.com/posts/如果真的让你当-google-rater-你会怎么给网页打分/)
+> 🌐 **在线阅读与互动版**：[“想查还是想动手”？Know 与 Do 意图的落地页设计 | 读懂 Google Search 基础认知 系列 032](https://blog.ittinker.com/posts/如果真的让你当-google-rater-你会怎么给网页打分/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

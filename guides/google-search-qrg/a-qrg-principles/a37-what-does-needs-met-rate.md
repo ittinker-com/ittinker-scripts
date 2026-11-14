@@ -1,6 +1,6 @@
-# “文章写得再好为什么就是没排名”？脱离需求的孤芳自赏：Needs Met 到底在评什么？从‘页面好不好’到‘对当前 Query 有多大用’ | 读懂 Google Search 基础认知 系列 037
+# “做梦都想拿最高分”？Fully Meets 的严苛门槛与现实定位 | 读懂 Google Search 基础认知 系列 037
 
-> 🌐 **在线阅读与互动版**：[“文章写得再好为什么就是没排名”？脱离需求的孤芳自赏：Needs Met 到底在评什么？从‘页面好不好’到‘对当前 Query 有多大用’ | 读懂 Google Search 基础认知 系列 037](https://blog.ittinker.com/posts/needs-met-到底在评什么/)
+> 🌐 **在线阅读与互动版**：[“做梦都想拿最高分”？Fully Meets 的严苛门槛与现实定位 | 读懂 Google Search 基础认知 系列 037](https://blog.ittinker.com/posts/needs-met-到底在评什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

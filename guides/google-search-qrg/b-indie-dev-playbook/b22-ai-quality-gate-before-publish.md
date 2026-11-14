@@ -1,6 +1,6 @@
-# “等 Google 降权了才发现页面全是垃圾”？后知后觉的代价：让 AI 扮演 Quality Rater，构建全自动 Page Quality Gate 质检 Agent | 读懂 Google Search SEO 实战 系列 022
+# “发布前让 AI 先质检”？自动化 PQ Gate 落地实操 | 读懂 Google Search SEO 实战 系列 022
 
-> 🌐 **在线阅读与互动版**：[“等 Google 降权了才发现页面全是垃圾”？后知后觉的代价：让 AI 扮演 Quality Rater，构建全自动 Page Quality Gate 质检 Agent | 读懂 Google Search SEO 实战 系列 022](https://blog.ittinker.com/posts/pseo-页面上线之前-能不能让-ai-先做-quality-gate/)
+> 🌐 **在线阅读与互动版**：[“发布前让 AI 先质检”？自动化 PQ Gate 落地实操 | 读懂 Google Search SEO 实战 系列 022](https://blog.ittinker.com/posts/pseo-页面上线之前-能不能让-ai-先做-quality-gate/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

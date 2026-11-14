@@ -1,6 +1,6 @@
-# “每天用 AI 批量铺 1 万篇文章”？数字垃圾场的光速暴毙：Scaled Content Abuse 时代，Google 到底怎么识破规模化滥用？ | 读懂 Google Search 基础认知 系列 025
+# “排版花哨就是专业”？中等质量（Medium PQ）的天花板在哪？ | 读懂 Google Search 基础认知 系列 025
 
-> 🌐 **在线阅读与互动版**：[“每天用 AI 批量铺 1 万篇文章”？数字垃圾场的光速暴毙：Scaled Content Abuse 时代，Google 到底怎么识破规模化滥用？ | 读懂 Google Search 基础认知 系列 025](https://blog.ittinker.com/posts/scaled-content-abuse-ai-批量生成内容真正危险在哪里/)
+> 🌐 **在线阅读与互动版**：[“排版花哨就是专业”？中等质量（Medium PQ）的天花板在哪？ | 读懂 Google Search 基础认知 系列 025](https://blog.ittinker.com/posts/scaled-content-abuse-ai-批量生成内容真正危险在哪里/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

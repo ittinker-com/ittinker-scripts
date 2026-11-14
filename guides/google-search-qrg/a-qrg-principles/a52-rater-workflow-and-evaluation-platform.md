@@ -1,6 +1,6 @@
-# “脱离用户上下文谈优化就是耍流氓”？千人千面的真实世界：设备、地点与即时情境对搜索结果的决定性重塑 | 读懂 Google Search 基础认知 系列 052
+# “没被抓就能继续做”？算法反作弊（SpamBrain）的动态追踪 | 读懂 Google Search 基础认知 系列 052
 
-> 🌐 **在线阅读与互动版**：[“脱离用户上下文谈优化就是耍流氓”？千人千面的真实世界：设备、地点与即时情境对搜索结果的决定性重塑 | 读懂 Google Search 基础认知 系列 052](https://blog.ittinker.com/posts/google-rater-的工作流告诉了我们什么/)
+> 🌐 **在线阅读与互动版**：[“没被抓就能继续做”？算法反作弊（SpamBrain）的动态追踪 | 读懂 Google Search 基础认知 系列 052](https://blog.ittinker.com/posts/google-rater-的工作流告诉了我们什么/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

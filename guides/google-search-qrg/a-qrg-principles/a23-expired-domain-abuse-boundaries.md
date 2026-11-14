@@ -1,6 +1,6 @@
-# “买老域名就能继承百万权重”？被黑帽割韭菜的致命迷思：Expired Domain Abuse 监管风暴下，为什么你的‘高权重外链’正在招致整站清算？ | 读懂 Google Search 基础认知 系列 023
+# “标题越怪点击越高”？标题党（Clickbait）怎样拉垮整站？ | 读懂 Google Search 基础认知 系列 023
 
-> 🌐 **在线阅读与互动版**：[“买老域名就能继承百万权重”？被黑帽割韭菜的致命迷思：Expired Domain Abuse 监管风暴下，为什么你的‘高权重外链’正在招致整站清算？ | 读懂 Google Search 基础认知 系列 023](https://blog.ittinker.com/posts/expired-domain-abuse-买老域名做-seo-的合规边界与垃圾滥用红线在哪里/)
+> 🌐 **在线阅读与互动版**：[“标题越怪点击越高”？标题党（Clickbait）怎样拉垮整站？ | 读懂 Google Search 基础认知 系列 023](https://blog.ittinker.com/posts/expired-domain-abuse-买老域名做-seo-的合规边界与垃圾滥用红线在哪里/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

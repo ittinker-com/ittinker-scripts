@@ -1,6 +1,6 @@
-# “Google 绝对封杀一切 AI 内容”？误读官方指南的因噎废食：Google 到底允不允许 AI 写内容？从 QRG 3.2 看判定底牌 | 读懂 Google Search SEO 实战 系列 009
+# “Google 到底允不允许 AI 写内容”？内容生产的官方合规底线 | 读懂 Google Search SEO 实战 系列 009
 
-> 🌐 **在线阅读与互动版**：[“Google 绝对封杀一切 AI 内容”？误读官方指南的因噎废食：Google 到底允不允许 AI 写内容？从 QRG 3.2 看判定底牌 | 读懂 Google Search SEO 实战 系列 009](https://blog.ittinker.com/posts/google-到底允不允许-ai-写内容/)
+> 🌐 **在线阅读与互动版**：[“Google 到底允不允许 AI 写内容”？内容生产的官方合规底线 | 读懂 Google Search SEO 实战 系列 009](https://blog.ittinker.com/posts/google-到底允不允许-ai-写内容/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

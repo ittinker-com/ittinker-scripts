@@ -1,6 +1,6 @@
-# “直接搜我的域名为什么都排不上”？导航搜索的暗礁密布：导航意图背后的死链、重定向与版本陷阱 | 读懂 Google Search 基础认知 系列 047
+# “为什么搜新闻总能排前面”？时效性与 Freshness 机制深度拆解 | 读懂 Google Search 基础认知 系列 047
 
-> 🌐 **在线阅读与互动版**：[“直接搜我的域名为什么都排不上”？导航搜索的暗礁密布：导航意图背后的死链、重定向与版本陷阱 | 读懂 Google Search 基础认知 系列 047](https://blog.ittinker.com/posts/用户直接搜-url-时-为什么也不一定-fully-meets/)
+> 🌐 **在线阅读与互动版**：[“为什么搜新闻总能排前面”？时效性与 Freshness 机制深度拆解 | 读懂 Google Search 基础认知 系列 047](https://blog.ittinker.com/posts/用户直接搜-url-时-为什么也不一定-fully-meets/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

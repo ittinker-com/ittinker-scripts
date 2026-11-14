@@ -1,6 +1,6 @@
-# “三行短答怎么打发深度研究”？长周期决策的流量洼地：复杂探索型查询（Complex Research）的交付心法 | 读懂 Google Search 基础认知 系列 049
+# “同行在抄我也能抄”？Scraped Content 搬运降权红线 | 读懂 Google Search 基础认知 系列 049
 
-> 🌐 **在线阅读与互动版**：[“三行短答怎么打发深度研究”？长周期决策的流量洼地：复杂探索型查询（Complex Research）的交付心法 | 读懂 Google Search 基础认知 系列 049](https://blog.ittinker.com/posts/local-intent-用户位置什么时候决定答案/)
+> 🌐 **在线阅读与互动版**：[“同行在抄我也能抄”？Scraped Content 搬运降权红线 | 读懂 Google Search 基础认知 系列 049](https://blog.ittinker.com/posts/local-intent-用户位置什么时候决定答案/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

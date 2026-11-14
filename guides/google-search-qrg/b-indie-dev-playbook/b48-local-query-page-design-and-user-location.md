@@ -1,6 +1,6 @@
-# “人在东京搜出来的维修师傅在大阪”？脱离经纬度的荒谬体验：Local Query 本地意图落地页为什么必须基于用户当前位置？ | 读懂 Google Search SEO 实战 系列 048
+# “人在东京搜出大阪师傅”？本地查询与当前地理位置对齐 | 读懂 Google Search SEO 实战 系列 048
 
-> 🌐 **在线阅读与互动版**：[“人在东京搜出来的维修师傅在大阪”？脱离经纬度的荒谬体验：Local Query 本地意图落地页为什么必须基于用户当前位置？ | 读懂 Google Search SEO 实战 系列 048](https://blog.ittinker.com/posts/local-query-的页面设计-为什么必须考虑用户当前位置/)
+> 🌐 **在线阅读与互动版**：[“人在东京搜出大阪师傅”？本地查询与当前地理位置对齐 | 读懂 Google Search SEO 实战 系列 048](https://blog.ittinker.com/posts/local-query-的页面设计-为什么必须考虑用户当前位置/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

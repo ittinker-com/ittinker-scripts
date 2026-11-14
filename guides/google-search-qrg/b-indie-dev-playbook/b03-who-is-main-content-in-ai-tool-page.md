@@ -1,6 +1,6 @@
-# “核心功能就是个输入框”？AI 工具站被批量降权的真相：Generator、Examples、Prompt、FAQ，谁才是真正的 Main Content？ | 读懂 Google Search SEO 实战 系列 003
+# “组件乱堆就是高质”？生成器、示例与 FAQ 谁才是主内容？ | 读懂 Google Search SEO 实战 系列 003
 
-> 🌐 **在线阅读与互动版**：[“核心功能就是个输入框”？AI 工具站被批量降权的真相：Generator、Examples、Prompt、FAQ，谁才是真正的 Main Content？ | 读懂 Google Search SEO 实战 系列 003](https://blog.ittinker.com/posts/generator-examples-prompt-faq-谁才是-ai-工具页的-main-content/)
+> 🌐 **在线阅读与互动版**：[“组件乱堆就是高质”？生成器、示例与 FAQ 谁才是主内容？ | 读懂 Google Search SEO 实战 系列 003](https://blog.ittinker.com/posts/generator-examples-prompt-faq-谁才是-ai-工具页的-main-content/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

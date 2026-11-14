@@ -1,6 +1,6 @@
-# “我的网站到底能不能扛住 Google 审查”？揭开黑盒的深度体检：我用 Google QRG 给一个真实网站做端到端体检报告 | 读懂 Google Search SEO 实战 系列 049
+# “网站能否扛住审查”？我用 Google QRG 做全套深度体检 | 读懂 Google Search SEO 实战 系列 049
 
-> 🌐 **在线阅读与互动版**：[“我的网站到底能不能扛住 Google 审查”？揭开黑盒的深度体检：我用 Google QRG 给一个真实网站做端到端体检报告 | 读懂 Google Search SEO 实战 系列 049](https://blog.ittinker.com/posts/我用-google-qrg-给一个真实网站做一次完整体检/)
+> 🌐 **在线阅读与互动版**：[“网站能否扛住审查”？我用 Google QRG 做全套深度体检 | 读懂 Google Search SEO 实战 系列 049](https://blog.ittinker.com/posts/我用-google-qrg-给一个真实网站做一次完整体检/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

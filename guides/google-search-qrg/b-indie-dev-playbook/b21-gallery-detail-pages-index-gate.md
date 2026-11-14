@@ -1,6 +1,6 @@
-# “把网站所有孤岛页面都塞进 Sitemap”？贪多嚼不烂的收录陷阱：Gallery 单图详情页该不该进 Sitemap？建立你的 Index Gate | 读懂 Google Search SEO 实战 系列 021
+# “单图详情页该不该进 Sitemap”？画廊资产的索引配额管理 | 读懂 Google Search SEO 实战 系列 021
 
-> 🌐 **在线阅读与互动版**：[“把网站所有孤岛页面都塞进 Sitemap”？贪多嚼不烂的收录陷阱：Gallery 单图详情页该不该进 Sitemap？建立你的 Index Gate | 读懂 Google Search SEO 实战 系列 021](https://blog.ittinker.com/posts/gallery-单图详情页应该进-sitemap-吗/)
+> 🌐 **在线阅读与互动版**：[“单图详情页该不该进 Sitemap”？画廊资产的索引配额管理 | 读懂 Google Search SEO 实战 系列 021](https://blog.ittinker.com/posts/gallery-单图详情页应该进-sitemap-吗/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

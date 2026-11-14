@@ -1,6 +1,6 @@
-# “用户看完你的网页为什么还要回 Google 继续搜”？没能解决问题的耻辱记录：如何设计一个让用户‘不需要继续 Google’的终极页面？ | 读懂 Google Search SEO 实战 系列 041
+# “如何让用户不再回搜”？设计终结用户搜索的终极页面 | 读懂 Google Search SEO 实战 系列 041
 
-> 🌐 **在线阅读与互动版**：[“用户看完你的网页为什么还要回 Google 继续搜”？没能解决问题的耻辱记录：如何设计一个让用户‘不需要继续 Google’的终极页面？ | 读懂 Google Search SEO 实战 系列 041](https://blog.ittinker.com/posts/怎样设计一个让用户-不需要继续-google-的页面/)
+> 🌐 **在线阅读与互动版**：[“如何让用户不再回搜”？设计终结用户搜索的终极页面 | 读懂 Google Search SEO 实战 系列 041](https://blog.ittinker.com/posts/怎样设计一个让用户-不需要继续-google-的页面/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

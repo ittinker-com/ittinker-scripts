@@ -1,6 +1,6 @@
-# “手里有 10 万个长尾关键词就等于有 10 万流量”？pSEO 狂欢背后的坟场：10 万个页面上线前，必须通过的五道质量门禁 | 读懂 Google Search SEO 实战 系列 017
+# “十万个 pSEO 页面是资产还是垃圾”？规模化建站的生死线 | 读懂 Google Search SEO 实战 系列 017
 
-> 🌐 **在线阅读与互动版**：[“手里有 10 万个长尾关键词就等于有 10 万流量”？pSEO 狂欢背后的坟场：10 万个页面上线前，必须通过的五道质量门禁 | 读懂 Google Search SEO 实战 系列 017](https://blog.ittinker.com/posts/10-万个-pseo-页面-是资产还是-10-万个垃圾页面/)
+> 🌐 **在线阅读与互动版**：[“十万个 pSEO 页面是资产还是垃圾”？规模化建站的生死线 | 读懂 Google Search SEO 实战 系列 017](https://blog.ittinker.com/posts/10-万个-pseo-页面-是资产还是-10-万个垃圾页面/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “论坛和 UGC 页面无法用常规标准评”？社区生态的特殊审判：Wikipedia、Reddit 与报错页面的质量裁决底牌 | 读懂 Google Search 基础认知 系列 031
+# “意图分类只是八股文”？四类核心意图如何精准匹配页面？ | 读懂 Google Search 基础认知 系列 031
 
-> 🌐 **在线阅读与互动版**：[“论坛和 UGC 页面无法用常规标准评”？社区生态的特殊审判：Wikipedia、Reddit 与报错页面的质量裁决底牌 | 读懂 Google Search 基础认知 系列 031](https://blog.ittinker.com/posts/论坛-百科和错误页面为什么需要单独评价/)
+> 🌐 **在线阅读与互动版**：[“意图分类只是八股文”？四类核心意图如何精准匹配页面？ | 读懂 Google Search 基础认知 系列 031](https://blog.ittinker.com/posts/论坛-百科和错误页面为什么需要单独评价/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “流量进来了转化和留存全为零”？本末倒置的 SEO 困局：为什么 Trust 根本不是 SEO 问题，而是你的产品核心生命线？ | 读懂 Google Search SEO 实战 系列 040
+# “有曝光却零转化”？为什么 Trust 是产品问题不是 SEO？ | 读懂 Google Search SEO 实战 系列 040
 
-> 🌐 **在线阅读与互动版**：[“流量进来了转化和留存全为零”？本末倒置的 SEO 困局：为什么 Trust 根本不是 SEO 问题，而是你的产品核心生命线？ | 读懂 Google Search SEO 实战 系列 040](https://blog.ittinker.com/posts/为什么-trust-往往是产品问题-而不只是-seo-问题/)
+> 🌐 **在线阅读与互动版**：[“有曝光却零转化”？为什么 Trust 是产品问题不是 SEO？ | 读懂 Google Search SEO 实战 系列 040](https://blog.ittinker.com/posts/为什么-trust-往往是产品问题-而不只是-seo-问题/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

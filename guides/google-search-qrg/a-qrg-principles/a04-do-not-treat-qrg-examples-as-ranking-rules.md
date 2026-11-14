@@ -1,6 +1,6 @@
-# “照抄 QRG 案例就能保送首页”？教条式 SEO 的致命陷阱：为什么原则驱动才能让你在算法大更新中活下来？ | 读懂 Google Search 基础认知 系列 004
+# “照抄手册就能拿高分”？为什么不能把 QRG 案例当排名规则？ | 读懂 Google Search 基础认知 系列 004
 
-> 🌐 **在线阅读与互动版**：[“照抄 QRG 案例就能保送首页”？教条式 SEO 的致命陷阱：为什么原则驱动才能让你在算法大更新中活下来？ | 读懂 Google Search 基础认知 系列 004](https://blog.ittinker.com/posts/为什么读-qrg-时不能把示例当成排名规则/)
+> 🌐 **在线阅读与互动版**：[“照抄手册就能拿高分”？为什么不能把 QRG 案例当排名规则？ | 读懂 Google Search 基础认知 系列 004](https://blog.ittinker.com/posts/为什么读-qrg-时不能把示例当成排名规则/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

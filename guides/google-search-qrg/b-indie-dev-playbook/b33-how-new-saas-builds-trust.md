@@ -1,6 +1,6 @@
-# “新产品没有大品牌没有权威外链就活不下去”？零基础起步的自救指南：出海 SaaS 冷启动建立 Trust 的最低可信底盘 | 读懂 Google Search SEO 实战 系列 033
+# “新 SaaS 没品牌怎么建信任”？零外链新站的 Trust 冷启动 | 读懂 Google Search SEO 实战 系列 033
 
-> 🌐 **在线阅读与互动版**：[“新产品没有大品牌没有权威外链就活不下去”？零基础起步的自救指南：出海 SaaS 冷启动建立 Trust 的最低可信底盘 | 读懂 Google Search SEO 实战 系列 033](https://blog.ittinker.com/posts/一个新-saas-没有品牌-没有外链-怎么建立-trust/)
+> 🌐 **在线阅读与互动版**：[“新 SaaS 没品牌怎么建信任”？零外链新站的 Trust 冷启动 | 读懂 Google Search SEO 实战 系列 033](https://blog.ittinker.com/posts/一个新-saas-没有品牌-没有外链-怎么建立-trust/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

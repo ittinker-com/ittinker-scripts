@@ -1,6 +1,6 @@
-# “在官网把自己夸成行业第一”？无效自嗨的声誉假象：Google 怎么区分网站自述与第三方独立声誉？ | 读懂 Google Search 基础认知 系列 013
+# “自夸行业第一有用吗”？Google 怎么区分网站自述与独立声誉？ | 读懂 Google Search 基础认知 系列 013
 
-> 🌐 **在线阅读与互动版**：[“在官网把自己夸成行业第一”？无效自嗨的声誉假象：Google 怎么区分网站自述与第三方独立声誉？ | 读懂 Google Search 基础认知 系列 013](https://blog.ittinker.com/posts/google-怎么看一个网站的-reputation/)
+> 🌐 **在线阅读与互动版**：[“自夸行业第一有用吗”？Google 怎么区分网站自述与独立声誉？ | 读懂 Google Search 基础认知 系列 013](https://blog.ittinker.com/posts/google-怎么看一个网站的-reputation/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

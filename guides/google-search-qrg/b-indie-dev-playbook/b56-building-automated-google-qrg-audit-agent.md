@@ -1,6 +1,6 @@
-# “把整套 Google 搜索圣经做成全自动 SEO Audit Agent”？110 篇终局收官之作：从人类知识库到自主智能体架构全解 | 读懂 Google Search SEO 实战 系列 056
+# “搜索指南到智能体”？全自动 SEO Audit Agent 架构 | 读懂 Google Search SEO 实战 系列 056
 
-> 🌐 **在线阅读与互动版**：[“把整套 Google 搜索圣经做成全自动 SEO Audit Agent”？110 篇终局收官之作：从人类知识库到自主智能体架构全解 | 读懂 Google Search SEO 实战 系列 056](https://blog.ittinker.com/posts/google-圣经-能不能被做成一个自动化-seo-audit-agent/)
+> 🌐 **在线阅读与互动版**：[“搜索指南到智能体”？全自动 SEO Audit Agent 架构 | 读懂 Google Search SEO 实战 系列 056](https://blog.ittinker.com/posts/google-圣经-能不能被做成一个自动化-seo-audit-agent/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

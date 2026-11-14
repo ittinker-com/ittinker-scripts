@@ -1,6 +1,6 @@
-# “AI 生成的内容事实全对就能拿第一”？空洞正确的慢性自杀：为什么内容事实正确依然可能被 Google 判定为 Low Quality？ | 读懂 Google Search SEO 实战 系列 010
+# “事实正确为何仍是低质”？AI 废话如何毁掉搜索排名？ | 读懂 Google Search SEO 实战 系列 010
 
-> 🌐 **在线阅读与互动版**：[“AI 生成的内容事实全对就能拿第一”？空洞正确的慢性自杀：为什么内容事实正确依然可能被 Google 判定为 Low Quality？ | 读懂 Google Search SEO 实战 系列 010](https://blog.ittinker.com/posts/ai-写得事实正确-为什么依然可能是-low-quality/)
+> 🌐 **在线阅读与互动版**：[“事实正确为何仍是低质”？AI 废话如何毁掉搜索排名？ | 读懂 Google Search SEO 实战 系列 010](https://blog.ittinker.com/posts/ai-写得事实正确-为什么依然可能是-low-quality/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

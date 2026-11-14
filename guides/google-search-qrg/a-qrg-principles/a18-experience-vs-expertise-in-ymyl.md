@@ -1,6 +1,6 @@
-# “病人自述比主任医师更权威”？经验与资质的残酷博弈：YMYL 领域亲身经验（Experience）与专家知识（Expertise）谁说了算？ | 读懂 Google Search 基础认知 系列 018
+# “亲身经验胜过资质”？YMYL 领域经验与专业资质谁说了算？ | 读懂 Google Search 基础认知 系列 018
 
-> 🌐 **在线阅读与互动版**：[“病人自述比主任医师更权威”？经验与资质的残酷博弈：YMYL 领域亲身经验（Experience）与专家知识（Expertise）谁说了算？ | 读懂 Google Search 基础认知 系列 018](https://blog.ittinker.com/posts/ymyl-内容里-亲身经验-experience-和专家知识-expertise-谁更重要/)
+> 🌐 **在线阅读与互动版**：[“亲身经验胜过资质”？YMYL 领域经验与专业资质谁说了算？ | 读懂 Google Search 基础认知 系列 018](https://blog.ittinker.com/posts/ymyl-内容里-亲身经验-experience-和专家知识-expertise-谁更重要/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

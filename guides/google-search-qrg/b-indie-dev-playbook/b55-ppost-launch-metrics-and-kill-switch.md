@@ -1,6 +1,6 @@
-# “100 个页面上线后到底该继续砸钱还是认赔离场”？拒绝沉没成本：用带证伪红线的止损决策模型指导 pSEO 迭代 | 读懂 Google Search SEO 实战 系列 055
+# “一百个页面上线后继续还是止损”？带证伪红线的 pSEO 迭代模型 | 读懂 Google Search SEO 实战 系列 055
 
-> 🌐 **在线阅读与互动版**：[“100 个页面上线后到底该继续砸钱还是认赔离场”？拒绝沉没成本：用带证伪红线的止损决策模型指导 pSEO 迭代 | 读懂 Google Search SEO 实战 系列 055](https://blog.ittinker.com/posts/100-个-pseo-页面上线后-我会用哪些指标决定继续还是停止/)
+> 🌐 **在线阅读与互动版**：[“一百个页面上线后继续还是止损”？带证伪红线的 pSEO 迭代模型 | 读懂 Google Search SEO 实战 系列 055](https://blog.ittinker.com/posts/100-个-pseo-页面上线后-我会用哪些指标决定继续还是停止/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

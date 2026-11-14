@@ -1,6 +1,6 @@
-# “图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：“图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：Gallery 页面到底有没有 SEO 价值？如何做出高质量多模态收录？如何做出高质量多模态收录？ | 读懂 Google Search SEO 实战 系列 007
+# “没文字就没有排名”？Gallery 页面到底有没有 SEO 价值？ | 读懂 Google Search SEO 实战 系列 007
 
-> 🌐 **在线阅读与互动版**：[“图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：“图片库页面根本没有文字怎么可能有排名”？视觉资产的偏见：Gallery 页面到底有没有 SEO 价值？如何做出高质量多模态收录？如何做出高质量多模态收录？ | 读懂 Google Search SEO 实战 系列 007](https://blog.ittinker.com/posts/gallery-页面到底有没有-seo-价值/)
+> 🌐 **在线阅读与互动版**：[“没文字就没有排名”？Gallery 页面到底有没有 SEO 价值？ | 读懂 Google Search SEO 实战 系列 007](https://blog.ittinker.com/posts/gallery-页面到底有没有-seo-价值/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

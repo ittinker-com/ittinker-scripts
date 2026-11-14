@@ -1,6 +1,6 @@
-# “Google 本身正在变成最大的内容农场”？零点击时代的残酷博弈：Web Result、Rich Block 与 AI Overview 的流量劫持 | 读懂 Google Search 基础认知 系列 036
+# “Needs Met 到底在评什么”？需求满足度（NM）核心打分逻辑 | 读懂 Google Search 基础认知 系列 036
 
-> 🌐 **在线阅读与互动版**：[“Google 本身正在变成最大的内容农场”？零点击时代的残酷博弈：Web Result、Rich Block 与 AI Overview 的流量劫持 | 读懂 Google Search 基础认知 系列 036](https://blog.ittinker.com/posts/google-搜索结果本身也是一种-产品界面/)
+> 🌐 **在线阅读与互动版**：[“Needs Met 到底在评什么”？需求满足度（NM）核心打分逻辑 | 读懂 Google Search 基础认知 系列 036](https://blog.ittinker.com/posts/google-搜索结果本身也是一种-产品界面/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

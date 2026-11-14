@@ -1,6 +1,6 @@
-# “为什么有些词怎么做都拿不到 Fully Meets”？认清现实的释怀：宽泛词与多意图搜索天然不存在单一完美解！ | 读懂 Google Search SEO 实战 系列 045
+# “为什么有些词怎么做都拿不到满分”？宽泛多意图词的现实定位 | 读懂 Google Search SEO 实战 系列 045
 
-> 🌐 **在线阅读与互动版**：[“为什么有些词怎么做都拿不到 Fully Meets”？认清现实的释怀：宽泛词与多意图搜索天然不存在单一完美解！ | 读懂 Google Search SEO 实战 系列 045](https://blog.ittinker.com/posts/什么时候一个-query-根本不存在-fully-meets/)
+> 🌐 **在线阅读与互动版**：[“为什么有些词怎么做都拿不到满分”？宽泛多意图词的现实定位 | 读懂 Google Search SEO 实战 系列 045](https://blog.ittinker.com/posts/什么时候一个-query-根本不存在-fully-meets/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

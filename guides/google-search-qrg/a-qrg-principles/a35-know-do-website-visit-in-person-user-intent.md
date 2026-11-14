@@ -1,6 +1,6 @@
-# “把信息站当成工具站来做”？张冠李戴的流量灾难：QRG 12.7 用户意图全模型（Know / Do / Website / Visit） | 读懂 Google Search 基础认知 系列 035
+# “线下体验也归 SEO 管”？本地生活类意图如何落地？ | 读懂 Google Search 基础认知 系列 035
 
-> 🌐 **在线阅读与互动版**：[“把信息站当成工具站来做”？张冠李戴的流量灾难：QRG 12.7 用户意图全模型（Know / Do / Website / Visit） | 读懂 Google Search 基础认知 系列 035](https://blog.ittinker.com/posts/know-do-website-visit-in-person-搜索意图应该怎么分/)
+> 🌐 **在线阅读与互动版**：[“线下体验也归 SEO 管”？本地生活类意图如何落地？ | 读懂 Google Search 基础认知 系列 035](https://blog.ittinker.com/posts/know-do-website-visit-in-person-搜索意图应该怎么分/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

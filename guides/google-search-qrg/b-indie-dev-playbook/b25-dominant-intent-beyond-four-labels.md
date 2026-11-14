@@ -1,6 +1,6 @@
-# “把搜索意图当成四个死板的标签”？机械套用的认知错位：做 SEO 真正最难的，是精准捕捉 Dominant Intent！ | 读懂 Google Search SEO 实战 系列 025
+# “意图不只是四个标签”？如何判断 Dominant Intent？ | 读懂 Google Search SEO 实战 系列 025
 
-> 🌐 **在线阅读与互动版**：[“把搜索意图当成四个死板的标签”？机械套用的认知错位：做 SEO 真正最难的，是精准捕捉 Dominant Intent！ | 读懂 Google Search SEO 实战 系列 025](https://blog.ittinker.com/posts/搜索意图不是四个标签-真正难的是判断-dominant-intent/)
+> 🌐 **在线阅读与互动版**：[“意图不只是四个标签”？如何判断 Dominant Intent？ | 读懂 Google Search SEO 实战 系列 025](https://blog.ittinker.com/posts/搜索意图不是四个标签-真正难的是判断-dominant-intent/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

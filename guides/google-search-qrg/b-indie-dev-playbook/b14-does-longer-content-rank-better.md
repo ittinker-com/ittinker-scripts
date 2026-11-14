@@ -1,6 +1,6 @@
-# “越长越能体现专业度”？字数通胀时代的笑话：打破文章长度迷信与 QRG 任务完成度法则 | 读懂 Google Search SEO 实战 系列 014
+# “文章越长 Google 越喜欢吗”？字数迷信破除与紧凑交付 | 读懂 Google Search SEO 实战 系列 014
 
-> 🌐 **在线阅读与互动版**：[“越长越能体现专业度”？字数通胀时代的笑话：打破文章长度迷信与 QRG 任务完成度法则 | 读懂 Google Search SEO 实战 系列 014](https://blog.ittinker.com/posts/内容越长-google-越喜欢吗/)
+> 🌐 **在线阅读与互动版**：[“文章越长 Google 越喜欢吗”？字数迷信破除与紧凑交付 | 读懂 Google Search SEO 实战 系列 014](https://blog.ittinker.com/posts/内容越长-google-越喜欢吗/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

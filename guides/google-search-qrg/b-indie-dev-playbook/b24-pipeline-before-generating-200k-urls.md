@@ -1,6 +1,6 @@
-# “先一口气生成 20 万 URL 赌 Google 收不收”？顺序搞反的自杀式建站：工业级 pSEO 现代发布管道与分批验证 SOP | 读懂 Google Search SEO 实战 系列 024
+# “先生成二十万页看收不收”？本末倒置的 pSEO 致命策略 | 读懂 Google Search SEO 实战 系列 024
 
-> 🌐 **在线阅读与互动版**：[“先一口气生成 20 万 URL 赌 Google 收不收”？顺序搞反的自杀式建站：工业级 pSEO 现代发布管道与分批验证 SOP | 读懂 Google Search SEO 实战 系列 024](https://blog.ittinker.com/posts/先生成-20-万-url-再看-google-收不收-是不是搞反了/)
+> 🌐 **在线阅读与互动版**：[“先生成二十万页看收不收”？本末倒置的 pSEO 致命策略 | 读懂 Google Search SEO 实战 系列 024](https://blog.ittinker.com/posts/先生成-20-万-url-再看-google-收不收-是不是搞反了/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

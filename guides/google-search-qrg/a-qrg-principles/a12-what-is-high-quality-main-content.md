@@ -1,6 +1,6 @@
-# “我写的明明是原创为什么不给排名”？把码字当原创的自我感动：什么才叫高质量 Main Content 的 Added Value？ | 读懂 Google Search 基础认知 系列 012
+# “原创就给流量”？高质量 Main Content 的附加价值在哪？ | 读懂 Google Search 基础认知 系列 012
 
-> 🌐 **在线阅读与互动版**：[“我写的明明是原创为什么不给排名”？把码字当原创的自我感动：什么才叫高质量 Main Content 的 Added Value？ | 读懂 Google Search 基础认知 系列 012](https://blog.ittinker.com/posts/什么才叫高质量-main-content/)
+> 🌐 **在线阅读与互动版**：[“原创就给流量”？高质量 Main Content 的附加价值在哪？ | 读懂 Google Search 基础认知 系列 012](https://blog.ittinker.com/posts/什么才叫高质量-main-content/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

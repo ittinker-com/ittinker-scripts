@@ -1,6 +1,6 @@
-# “堆砌关键词就能拿排名”？向爬虫妥协的古董思维，为什么正在让你的站点沦为数字垃圾？从 Search Experience 读懂搜索质量总模型 | 读懂 Google Search 基础认知 系列 001
+# “堆词就能拿排名”？Google 搜索到底想解决什么问题？ | 读懂 Google Search 基础认知 系列 001
 
-> 🌐 **在线阅读与互动版**：[“堆砌关键词就能拿排名”？向爬虫妥协的古董思维，为什么正在让你的站点沦为数字垃圾？从 Search Experience 读懂搜索质量总模型 | 读懂 Google Search 基础认知 系列 001](https://blog.ittinker.com/posts/google-搜索到底想解决什么问题/)
+> 🌐 **在线阅读与互动版**：[“堆词就能拿排名”？Google 搜索到底想解决什么问题？ | 读懂 Google Search 基础认知 系列 001](https://blog.ittinker.com/posts/google-搜索到底想解决什么问题/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

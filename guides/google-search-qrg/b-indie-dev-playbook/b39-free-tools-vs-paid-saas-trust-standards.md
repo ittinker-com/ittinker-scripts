@@ -1,6 +1,6 @@
-# “免费小工具谁在乎有没有退款条款”？风险层级的误判：免费工具与付费 SaaS 的 Trust 门槛到底有什么实质差异？ | 读懂 Google Search SEO 实战 系列 039
+# “小工具不用管信任”？免费与付费 SaaS 的 Trust 门槛 | 读懂 Google Search SEO 实战 系列 039
 
-> 🌐 **在线阅读与互动版**：[“免费小工具谁在乎有没有退款条款”？风险层级的误判：免费工具与付费 SaaS 的 Trust 门槛到底有什么实质差异？ | 读懂 Google Search SEO 实战 系列 039](https://blog.ittinker.com/posts/免费小工具与付费-saas-的-trust-门槛一样吗/)
+> 🌐 **在线阅读与互动版**：[“小工具不用管信任”？免费与付费 SaaS 的 Trust 门槛 | 读懂 Google Search SEO 实战 系列 039](https://blog.ittinker.com/posts/免费小工具与付费-saas-的-trust-门槛一样吗/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

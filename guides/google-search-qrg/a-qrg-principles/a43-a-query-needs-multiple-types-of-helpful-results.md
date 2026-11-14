@@ -1,6 +1,6 @@
-# “搜索结果第一页为什么不能全是同一种答案”？打破单一视角的生态法则：多样性生态与 SERP 混排底牌 | 读懂 Google Search 基础认知 系列 043
+# “屏幕小就随便做”？Mobile First 评估的移动端生死线 | 读懂 Google Search 基础认知 系列 043
 
-> 🌐 **在线阅读与互动版**：[“搜索结果第一页为什么不能全是同一种答案”？打破单一视角的生态法则：多样性生态与 SERP 混排底牌 | 读懂 Google Search 基础认知 系列 043](https://blog.ittinker.com/posts/一个-query-可以同时需要很多种-好答案/)
+> 🌐 **在线阅读与互动版**：[“屏幕小就随便做”？Mobile First 评估的移动端生死线 | 读懂 Google Search 基础认知 系列 043](https://blog.ittinker.com/posts/一个-query-可以同时需要很多种-好答案/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,6 +1,6 @@
-# “同一套内容复制到五个域名”？自相残杀的站群恶果：Duplicate Results 去重法则与站内竞争消解 | 读懂 Google Search 基础认知 系列 053
+# “算法更新到底该怎么看”？从 QRG 读懂核心更新底层逻辑 | 读懂 Google Search 基础认知 系列 053
 
-> 🌐 **在线阅读与互动版**：[“同一套内容复制到五个域名”？自相残杀的站群恶果：Duplicate Results 去重法则与站内竞争消解 | 读懂 Google Search 基础认知 系列 053](https://blog.ittinker.com/posts/duplicate-results-搜索结果为什么不应该都是同一种答案/)
+> 🌐 **在线阅读与互动版**：[“算法更新到底该怎么看”？从 QRG 读懂核心更新底层逻辑 | 读懂 Google Search 基础认知 系列 053](https://blog.ittinker.com/posts/duplicate-results-搜索结果为什么不应该都是同一种答案/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

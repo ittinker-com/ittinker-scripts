@@ -1,6 +1,6 @@
-# “评估员到底怎么查我的底细”？脱去伪装的透视镜：如何像 Google Rater 一样调查一个陌生网站的真实信誉？ | 读懂 Google Search 基础认知 系列 015
+# “评估员怎么查底细”？像 Google Rater 一样调查陌生站点 | 读懂 Google Search 基础认知 系列 015
 
-> 🌐 **在线阅读与互动版**：[“评估员到底怎么查我的底细”？脱去伪装的透视镜：如何像 Google Rater 一样调查一个陌生网站的真实信誉？ | 读懂 Google Search 基础认知 系列 015](https://blog.ittinker.com/posts/如何像-google-rater-一样调查一个陌生网站/)
+> 🌐 **在线阅读与互动版**：[“评估员怎么查底细”？像 Google Rater 一样调查陌生站点 | 读懂 Google Search 基础认知 系列 015](https://blog.ittinker.com/posts/如何像-google-rater-一样调查一个陌生网站/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

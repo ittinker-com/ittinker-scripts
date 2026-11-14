@@ -1,6 +1,6 @@
-# “Google 的真实排名和自己的评分标准差了多少”？实锤数据的拷问：我把 SERP Top 10 全部按 Needs Met 重打一次分！ | 读懂 Google Search SEO 实战 系列 053
+# “真实排名和标准差多少”？SERP 前十按 Needs Met 重打分 | 读懂 Google Search SEO 实战 系列 053
 
-> 🌐 **在线阅读与互动版**：[“Google 的真实排名和自己的评分标准差了多少”？实锤数据的拷问：我把 SERP Top 10 全部按 Needs Met 重打一次分！ | 读懂 Google Search SEO 实战 系列 053](https://blog.ittinker.com/posts/我把-serp-top-10-全部按-needs-met-重打一次分/)
+> 🌐 **在线阅读与互动版**：[“真实排名和标准差多少”？SERP 前十按 Needs Met 重打分 | 读懂 Google Search SEO 实战 系列 053](https://blog.ittinker.com/posts/我把-serp-top-10-全部按-needs-met-重打一次分/)
 > 📚 **所属专栏**：[《读懂 Google Search：110篇搜索质量与SEO实战指南》](../README.md)
 
 ---

@@ -1,0 +1,2 @@
+# Optional for extended LLM integration or CI/CD pipelines
+# The core script runs with standard Python 3.8+ libraries out-of-the-box.
